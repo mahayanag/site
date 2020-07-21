@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mahayana Godoy</title>
+    <link>https://mahayana.me/</link>
+    <description>Recent content on Mahayana Godoy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://mahayana.me/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contato</title>
+      <link>https://mahayana.me/contato/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://mahayana.me/contato/</guid>
+      <description>Para entrar em contato, escreva para mahayanag [arroba] gmail</description>
+    </item>
+    
+    <item>
+      <title>Divulgação Científica</title>
+      <link>https://mahayana.me/dc/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://mahayana.me/dc/</guid>
+      <description>Quando não estou trabalhando com Psicolinguística, tento convencer as outras pessoas de que Linguística é legal. Eu faço isso atuando como embaixadora da Olimpíada Brasileira de Linguística e editora da Roseta, a revista de Divulgação Científica da Associação Brasileira de Linguística.
+Abaixo você encontra links para alguns materiais sobre minhas pesquisas em simbolismo sonoro, bem como uma lista de materiais de Divulgação Científica em Linguística.
+Publicações O que há em um nome: simbolismo sonoro e linguagem (Revista Roseta)</description>
+    </item>
+    
+    <item>
+      <title>Ensino e Materiais</title>
+      <link>https://mahayana.me/ensino_e_materiais/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://mahayana.me/ensino_e_materiais/</guid>
+      <description>Disciplinas Sou professora das disciplinas de Linguística dos cursos de Letras e Fonoaudiologia da UFRN. Além disso, costumo ministrar disciplinas em temas relacionados a psicolinguística, métodos experimentais e análise estatística de dados no Programa de Pós-graduação em Estudos da Linguagem (PPgEL/UFRN).
+Em 2020.1 estarei afastada para estágio como pesquisadora visitante no Centro de Ciências e Tecnologia de Mendoza (CONICET - Mendoza). Por esse motivo, não oferecerei disciplinas neste período.
+Materiais Abaixo há alguns materiais produzidos para cursos e workshops.</description>
+    </item>
+    
+    <item>
+      <title>Pesquisa</title>
+      <link>https://mahayana.me/pesquisa/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://mahayana.me/pesquisa/</guid>
+      <description>Meus temas principais de pesquisa são o processamento lexical e referencial (especialmente pronomes ambíguos). Dentro desses temas, investigo como integramos as informações linguísticas que lemos/ouvimos aos nossos conhecimentos de mundo e da situação comunicativa para tentar prever o que será dito em partes posteriores do texto. Meus trabalhos são desenvolvidos a partir de experimentos comportamentais e análise quantitativa.
+Recentemente, também tenho me interessado por simbolismo sonoro, a ideia de que determinados sons da língua remetem a percepções sensoriais de tamanho, forma, luz, cor etc.</description>
+    </item>
+    
+    <item>
+      <title>Sobre</title>
+      <link>https://mahayana.me/sobre/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://mahayana.me/sobre/</guid>
+      <description>Desde 2015, sou professora da Universidade Federal do Rio Grande do Norte. Fiz meu doutorado em Linguística, com ênfase em Psicolinguística, na Universidade Estadual de Campinas. Atualmente, integro o quadro de professores do Programa de Pós-graduação em Estudos da Linguagem da UFRN (PPgEL/UFRN) e do Programa de Pós-graduação em Linguística da UFMG (Poslin/UFMG). Também sou coordenadora do Laboratório de Estudos Experimentais em Linguagem (LEELin/UFRN) e membro do Laboratório de Psicolinguística (UFMG).</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mahayana.me/mlm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mahayana.me/mlm/</guid>
+      <description>Introdução aos modelos lineares mistos para os estudos da linguagem  div.sourceCode { overflow-x: auto; } table.sourceCode, tr.sourceCode, td.lineNumbers, td.sourceCode { margin: 0; padding: 0; vertical-align: baseline; border: none; } table.sourceCode { width: 100%; line-height: 100%; } td.lineNumbers { text-align: right; padding-right: 4px; padding-left: 4px; color: #aaaaaa; border-right: 1px solid #aaaaaa; } td.sourceCode { padding-left: 5px; } code  span.kw { color: #007020; font-weight: bold; } /* Keyword */ code  span.</description>
+    </item>
+    
+  </channel>
+</rss>
