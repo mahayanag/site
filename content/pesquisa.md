@@ -14,6 +14,8 @@ Recentemente, também tenho me interessado por simbolismo sonoro, a ideia de que
 
 ### Artigos
 
+Godoy, M. C.; Nunes, M. A. Uma comparação entre ANOVA e modelos lineares mistos para análise de dados de tempo de resposta. Revista da ABRALIN, v. 19, n. 1, p. 1-23, 17 jul. 2020.[link](https://revista.abralin.org/index.php/abralin/article/view/1388)
+
 Godoy, M. C.; Souza Filho, N. S.; Souza, J. G. M.; Alves, H.; Kawahara, S. (2019) Gotta name’em all: an experimental study on the sound symbolism of Pokémon names in Brazilian Portuguese. Journal of Psycholinguistic Research, doi: 10.1007/s10936-019-09679-2.[link](https://link.springer.com/article/10.1007/s10936-019-09679-2)
 
 Godoy, M. C.; Weissheimer, J. ; Mafra, M. A. (2018) When Grammar Meets Pragmatics: Subject Preference and Coherence Relations in Brazilian Portuguese Pronoun Interpretation. Journal of Portuguese Linguistics, v. 17, p. 17, doi: 10.5334/jpl.197. [link](https://jpl.letras.ulisboa.pt/articles/10.5334/jpl.197/)
