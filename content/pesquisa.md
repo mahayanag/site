@@ -16,13 +16,15 @@ Recentemente, também tenho me interessado por simbolismo sonoro, a ideia de que
 
 Kawahara, S.; Godoy, M.; Gakuji, K. (no prelo) Do sibilants fly? Evidence from a sound symbolic pattern in Pokémon names. Open Linguistics.
 
-Godoy, M.C.; Carvalho, R. S. (no prelo, 2020). Efeitos sintáticos e temáticos na resolução de pronomes ambíguos em português brasileiro. Revista do GELNE.
+
 
 
 ### Artigos
 
+Godoy, M.; Souza de Carvalho, R. S. (2020) Efeitos sintáticos e temáticos na resolução de pronomes ambíguos em Português Brasileiro. Revista do GELNE, v. 22, n. 2, p. 131-142, doi: https://doi.org/10.21680/1517-7874.2020v22n2ID20183. [link](https://periodicos.ufrn.br/gelne/article/view/20183)
 
-Godoy, M. C.; Nunes, M. A. (2020) Uma comparação entre ANOVA e modelos lineares mistos para análise de dados de tempo de resposta. Revista da ABRALIN, v. 19, n. 1, p. 1-23 [link](https://revista.abralin.org/index.php/abralin/article/view/1388)
+https://periodicos.ufrn.br/gelne/article/view/20183
+Godoy, M. C.; Nunes, M. A. (2020) Uma comparação entre ANOVA e modelos lineares mistos para análise de dados de tempo de resposta. Revista da ABRALIN, v. 19, n. 1, p. 1-23, doi:10.25189/rabralin.v19i1.1388 [link](https://revista.abralin.org/index.php/abralin/article/view/1388)
 
 Godoy, M. C.; Souza Filho, N. S.; Souza, J. G. M.; Alves, H.; Kawahara, S. (2019) Gotta name’em all: an experimental study on the sound symbolism of Pokémon names in Brazilian Portuguese. Journal of Psycholinguistic Research, doi: 10.1007/s10936-019-09679-2. [link](https://link.springer.com/article/10.1007/s10936-019-09679-2)
 
