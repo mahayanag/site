@@ -4,7 +4,9 @@ date = "2014-04-09"
 +++
 
 
-Sou professora das disciplinas de Linguística dos cursos de Letras e Fonoaudiologia da UFRN. Além disso, costumo ministrar disciplinas em temas relacionados a psicolinguística, métodos experimentais e análise estatística de dados no Programa de Pós-graduação em Estudos da Linguagem (PPgEL/UFRN).
+Sou professora das disciplinas de Linguística dos cursos de Letras e Fonoaudiologia da UFRN. Além disso, costumo ministrar disciplinas em temas relacionados a psicolinguística, métodos experimentais e análise estatística de dados no Programa de Pós-graduação em Estudos da Linguagem da UFRN. 
+
+No Programa de Pós-graduação em Estudos Linguísticos (Poslin) da UFMG, costumo oferecer disciplinas de análise de dados quantitativos.
 
 Em 2020 estarei afastada para estágio como pesquisadora visitante no Centro de Ciências e Tecnologia de Mendoza (CONICET - Mendoza).
 
@@ -12,7 +14,7 @@ Em 2020 estarei afastada para estágio como pesquisadora visitante no Centro de 
 
 ## Materiais
 
-Abaixo há alguns materiais produzidos para cursos e workshops.
+Abaixo listo alguns materiais produzidos para cursos e workshops. Para uma lista completa, visite meu [GitHub](https://github.com/mahayanag).
 
 ### Estatística e R
 
@@ -22,8 +24,7 @@ Abaixo há alguns materiais produzidos para cursos e workshops.
 
 + Material do [*Workshop de Introdução ao R para linguistas*](https://github.com/mahayanag/rworkshop), apresentando a linguagem de programação através do uso do ggplot2 para visualização de dados
 
-
-### Vídeo Tutoriais
+### Softwares para elaboração de experimentos
 
 + [*Vídeo Tutorial*](https://www.youtube.com/watch?v=cntvetEVZ7Q&feature=youtu.be) para implementação de experimentos de leitura autocadenciada no IbexFarm, com [*scripts e materiais suplementares*](https://github.com/mahayanag/arquivosIbexFarm) no github
 

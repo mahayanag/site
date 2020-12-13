@@ -4,22 +4,19 @@ date = "2014-04-09"
 +++
 
 
-Meus temas principais de pesquisa são o processamento lexical e referencial (especialmente pronomes ambíguos). Dentro desses temas, investigo como integramos as informações linguísticas que lemos/ouvimos aos nossos conhecimentos de mundo e da situação comunicativa para tentar prever o que será dito em partes posteriores do texto. Meus trabalhos são desenvolvidos a partir de experimentos comportamentais e análise quantitativa.
+Meus temas principais de pesquisa são o processamento lexical e discursivo (especialmente questões relacionadas a processamento referencial). Dentro desses temas, investigo como integramos as informações linguísticas que lemos/ouvimos aos nossos conhecimentos de mundo e da situação comunicativa para tentar prever o que será dito em partes posteriores do texto. 
+
+Meus trabalhos são desenvolvidos a partir de experimentos comportamentais e análise quantitativa.
 
 
-Recentemente, também tenho me interessado por simbolismo sonoro, a ideia de que determinados sons da língua remetem a percepções sensoriais de tamanho, forma, luz, cor etc.
+Recentemente, também tenho me interessado por simbolismo sonoro, a ideia de que determinados sons da língua remetem a percepções sensoriais de tamanho, forma, luz, cor etc. 
 
 
 ## Publicações
 
-### Aceito para publicação
-
-Kawahara, S.; Godoy, M.; Gakuji, K. (no prelo) Do sibilants fly? Evidence from a sound symbolic pattern in Pokémon names. Open Linguistics.
-
-
-
-
 ### Artigos
+
+Kawahara, S.; Godoy, M.; Gakuji, K. (2020) Do sibilants fly? Evidence from a sound symbolic pattern in Pokémon names. Open Linguistics 6 (1), 386-400. [link](https://www.degruyter.com/view/journals/opli/6/1/article-p386.xml)
 
 Godoy, M.; Souza de Carvalho, R. S. (2020) Efeitos sintáticos e temáticos na resolução de pronomes ambíguos em Português Brasileiro. Revista do GELNE, v. 22, n. 2, p. 131-142, doi: 10.21680/1517-7874.2020v22n2ID20183. [link](https://periodicos.ufrn.br/gelne/article/view/20183)
 
@@ -65,10 +62,16 @@ Godoy, M. C. (2010) Resolvendo a anáfora conceitual: um olhar para além da rel
 
 ### Resumos e posteres
 
-Godoy, M.C., Souza, N. S., Mafra, M. A., França, H. A., Souza, J. G. M. (2018) Simbolismo sonoro em Português Brasileiro: um estudo sobre nomes dos Pokémons. Poster apresentado na Jornada Internacional do Grupo de Estudos Linguísticos do Nordeste. 
+Godoy, M. C.; Sá, T. M. M. (2020) Investigando a resolução de descrições definidas anafóricas a partir de modelos probabilísticos de processamento pronominal. II Encontro Mineiro de Psicolinguística. [resumo](/GodoySa_resumo.pdf), [poster](/GodoySa_poster.pdf), [vídeo](https://www.youtube.com/watch?v=lvu4lIL_AK8&feature=emb_logo&ab_channel=EncontroMineirodePsicolingu%C3%ADstica)
 
-Godoy, M. C., Mafra, M. A. (2017) Pronoun interpretation in Brazilian Portuguese: event structure can override subject preference. In: In: 23rd Architectures and Mechanisms of Language Processing, 2017, Lancaster. Proceeding of…, p. 92. [pdf](/poster_amlap.pdf)
+Souza-Filho, N. S., Godoy, M.C., (2020) Um significativo mas pequeno efeito: antecipação lexical em leitura autocadenciada. II Encontro Mineiro de Psicolinguística. [resumo](/SouzaFilhoGodoy_resumo.pdf),[poster](/SouzaFilhoGodoy_poster.pdf), [vídeo](https://www.youtube.com/watch?v=vHjifpQPFqA&feature=emb_logo&ab_channel=EncontroMineirodePsicolingu%C3%ADstica)
+
+Souza-Filho, N. S., Godoy, M.C., (2020) Lexical prediction mechanisms in Brazilian Portuguese: addressing methodological issues. Architectures and Mechanisms of Language Processing 2020. [poster, resumo e vídeo (em inglês)](https://osf.io/n7365/)
+
+Godoy, M.C., Souza, N. S., Mafra, M. A., França, H. A., Souza, J. G. M. (2018) Simbolismo sonoro em Português Brasileiro: um estudo sobre nomes dos Pokémons. Poster apresentado na Jornada Internacional do Grupo de Estudos Linguísticos do Nordeste. [poster](/Godoyetal_gelne2018.pdf)
+
+Godoy, M. C., Mafra, M. A. (2017) Pronoun interpretation in Brazilian Portuguese: event structure can override subject preference. In: In: 23rd Architectures and Mechanisms of Language Processing, 2017, Lancaster. Proceeding of…, p. 92. [poster](/poster_amlap.pdf)
 
 Godoy, M. C., Antão, C. (2014) Intrinsic differences in the processing of singular and plural pronous. In: 27th Annual CUNY Conference on Human Sentence Processing, Columbus, Ohio. Proceedings of the…, p. 199. 
 
-Godoy, M. C., Ferreira, A. Alencar, J. G., Salgado, B. O. (2013) Medidas de processamento imediato e tardio no estudo das anáforas conceituais. Poster apresentado no III Workshop de Processamento Anafórico. [pdf](/Poster_3WPA.pdf)
+Godoy, M. C., Ferreira, A. Alencar, J. G., Salgado, B. O. (2013) Medidas de processamento imediato e tardio no estudo das anáforas conceituais. Poster apresentado no III Workshop de Processamento Anafórico. [poster](/Poster_3WPA.pdf)

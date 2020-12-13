@@ -32,7 +32,7 @@ Minha participação no [*Dragões de Garagem*](http://dragoesdegaragem.com/podc
 
 (uma lista muito desatualizada...)
 
-+ [Revista *Roseta*](https://www.roseta.org.br/pt), da Associação Brasileira de Linguística
++ Revista [*Roseta*](https://www.roseta.org.br/pt), da Associação Brasileira de Linguística
 
 + [*Twitter*](https://twitter.com/revistaroseta) e [*Facebook*](https://www.facebook.com/revistaroseta) da revista Roseta
 
