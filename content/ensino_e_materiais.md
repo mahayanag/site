@@ -8,7 +8,7 @@ Sou professora das disciplinas de Linguística dos cursos de Letras e Fonoaudiol
 
 No Programa de Pós-graduação em Estudos Linguísticos (Poslin) da UFMG, costumo oferecer disciplinas de análise de dados quantitativos.
 
-Em 2020 estarei afastada para estágio como pesquisadora visitante no Centro de Ciências e Tecnologia de Mendoza (CONICET - Mendoza).
+Em 2020, estarei afastada para estágio como pesquisadora visitante no Centro de Ciências e Tecnologia de Mendoza (CONICET - Mendoza).
 
 
 
@@ -18,9 +18,11 @@ Abaixo listo alguns materiais produzidos para cursos e workshops. Para uma lista
 
 ### Estatística e R
 
-+ Material do curso de [*Introdução à estatística e ao R para linguistas*](https://github.com/mahayanag/intro_estatistica_linguistica), que costumo oferecer na UFRN
++ Curso online de [*Estatística para as Ciências da Linguagem*](https://www.youtube.com/playlist?list=PLE4HwfVNrSWQwm_62G49CZTXi7dqMzsuC), disponível no youtube. Os vídeos estão sendo gravados ao longo de 2020/2021 
 
-+ Tutorial de [*Modelos Lineares Mistos*](https://mahayana.me/mlm) (oferecido para pós-graduação)
++ Material antigo do curso de [*Introdução à estatística e ao R para linguistas*](https://github.com/mahayanag/intro_estatistica_linguistica), oferecido na UFRN
+
++ Tutorial de [*Modelos Lineares Mistos*](https://mahayana.me/mlm) (oferecido em programas de pós-graduação)
 
 + Material do [*Workshop de Introdução ao R para linguistas*](https://github.com/mahayanag/rworkshop), apresentando a linguagem de programação através do uso do ggplot2 para visualização de dados
 
