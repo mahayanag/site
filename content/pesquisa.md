@@ -16,6 +16,8 @@ Recentemente, também tenho me interessado por simbolismo sonoro, a ideia de que
 
 ### Artigos
 
+Godoy, M. Gomes, A., Kumagai, G., Kawahara, S. (no prelo). Sound symbolism in Brazilian Portuguese Pokémon names: Evidence for cross-linguistic similarities and differences. Journal of Portuguese Linguistics.
+
 Kawahara, S.; Godoy, M.; Gakuji, K. (2020) Do sibilants fly? Evidence from a sound symbolic pattern in Pokémon names. Open Linguistics 6 (1), 386-400. [link](https://www.degruyter.com/view/journals/opli/6/1/article-p386.xml)
 
 Godoy, M.; Souza de Carvalho, R. S. (2020) Efeitos sintáticos e temáticos na resolução de pronomes ambíguos em Português Brasileiro. Revista do GELNE, v. 22, n. 2, p. 131-142, doi: 10.21680/1517-7874.2020v22n2ID20183. [link](https://periodicos.ufrn.br/gelne/article/view/20183)
