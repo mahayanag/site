@@ -16,9 +16,9 @@ Recentemente, também tenho me interessado por simbolismo sonoro, a ideia de que
 
 ### Artigos
 
-Godoy, M. Gomes, A., Kumagai, G., Kawahara, S. (no prelo). Sound symbolism in Brazilian Portuguese Pokémon names: Evidence for cross-linguistic similarities and differences. Journal of Portuguese Linguistics.
+Godoy, M.; Gomes, A.; Kumagai, G.; Kawahara, S. (2021)  Sound symbolism in Brazilian Portuguese Pokémon names: Evidence for cross-linguistic similarities and differences. Journal of Portuguese Linguistics, 20: 1, pp. 1–23. DOI: https://doi.org/10.5334/jpl.257 [link]
 
-Kawahara, S.; Godoy, M.; Gakuji, K. (2020) Do sibilants fly? Evidence from a sound symbolic pattern in Pokémon names. Open Linguistics 6 (1), 386-400. [link](https://www.degruyter.com/view/journals/opli/6/1/article-p386.xml)
+Kawahara, S.; Godoy, M.; Gakuji, K. (2020) [Do sibilants fly? Evidence from a sound symbolic pattern in Pokémon names](https://www.degruyter.com/view/journals/opli/6/1/article-p386.xml). Open Linguistics 6 (1), 386-400.
 
 Godoy, M.; Souza de Carvalho, R. S. (2020) Efeitos sintáticos e temáticos na resolução de pronomes ambíguos em Português Brasileiro. Revista do GELNE, v. 22, n. 2, p. 131-142, doi: 10.21680/1517-7874.2020v22n2ID20183. [link](https://periodicos.ufrn.br/gelne/article/view/20183)
 
@@ -28,7 +28,7 @@ Godoy, M. C.; Souza Filho, N. S.; Souza, J. G. M.; Alves, H.; Kawahara, S. (2020
 
 Godoy, M. C.; Weissheimer, J. ; Mafra, M. A. (2018) When Grammar Meets Pragmatics: Subject Preference and Coherence Relations in Brazilian Portuguese Pronoun Interpretation. Journal of Portuguese Linguistics, v. 17, p. 17, doi: 10.5334/jpl.197. [link](https://jpl.letras.ulisboa.pt/articles/10.5334/jpl.197/)
 
-Godoy, M. C. Mafra, M. A. (2018) Modelos probabilísticos e a resolução do pronome ambíguo em Português Brasileiro. Revista Linguística, v. 32, n. 2 (Online), doi:10.5935/2079-312x.20180019 [link](http://www.scielo.edu.uy/scielo.php?script=sci_arttext&pid=S2079-312X2018000200119&lng=es&nrm=iso&tlng=pt)
+Godoy, M. C. Mafra, M. A. (2018) Modelos probabilísticos e a resolução do pronome ambíguo em Português Brasileiro. Revista Linguística, v. 32, n. 2 (Online), doi:10.5935/2079-312x.20180019 [link](http://www.scielo.edu.uy/scielo.php?script=sci_arttext&pid=S2079-312X2018000200119&lng=en&nrm=iso&tlng=pt)
 
 Godoy, M. C.; Duarte, A. C. V. ; Silva, F. L. F. ; Albano, G. F. ; Souza, R. J. P. ; Silva, Y. U. A. P. M. (2018) Replicando o efeito Takete Maluma em Português Brasileiro. Revista do GELNE, v. 20, p. 87-100, doi: 10.21680/1517-7874.2018v20n1ID13331. [link](https://periodicos.ufrn.br/gelne/article/view/13331)
 
