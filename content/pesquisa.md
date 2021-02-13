@@ -4,7 +4,7 @@ date = "2014-04-09"
 +++
 
 
-Meus temas principais de pesquisa são o processamento lexical e discursivo (especialmente questões relacionadas a processamento referencial). Dentro desses temas, investigo como integramos as informações linguísticas que lemos/ouvimos aos nossos conhecimentos de mundo e da situação comunicativa para tentar prever o que será dito em partes posteriores do texto. 
+Meus temas principais de pesquisa são o processamento lexical e discursivo, especialmente questões relacionadas ao processamento referencial. Dentro desses temas, investigo como integramos as informações linguísticas que lemos/ouvimos aos nossos conhecimentos de mundo e da situação comunicativa para tentar prever o que será dito em partes posteriores do texto. 
 
 Meus trabalhos são desenvolvidos a partir de experimentos comportamentais e análise quantitativa.
 
@@ -16,13 +16,13 @@ Recentemente, também tenho me interessado por simbolismo sonoro, a ideia de que
 
 ### Artigos
 
-Godoy, M.; Gomes, A.; Kumagai, G.; Kawahara, S. (2021)  Sound symbolism in Brazilian Portuguese Pokémon names: Evidence for cross-linguistic similarities and differences. Journal of Portuguese Linguistics, 20: 1, pp. 1–23. DOI: https://doi.org/10.5334/jpl.257 [link]
+Godoy, M.; Gomes, A.; Kumagai, G.; Kawahara, S. (2021)  Sound symbolism in Brazilian Portuguese Pokémon names: Evidence for cross-linguistic similarities and differences. Journal of Portuguese Linguistics, 20: 1, pp. 1–23. DOI: 10.5334/jpl.257 [link](https://doi.org/10.5334/jpl.257) | [git](https://github.com/mahayanag/JPL_Pokemonastics)
 
-Kawahara, S.; Godoy, M.; Gakuji, K. (2020) [Do sibilants fly? Evidence from a sound symbolic pattern in Pokémon names](https://www.degruyter.com/view/journals/opli/6/1/article-p386.xml). Open Linguistics 6 (1), 386-400.
+Kawahara, S.; Godoy, M.; Gakuji, K. (2020) Do sibilants fly? Evidence from a sound symbolic pattern in Pokémon names. Open Linguistics 6 (1), 386-400. DOI: 10.1515/opli-2020-0027 [link](https://www.degruyter.com/view/journals/opli/6/1/article-p386.xml)
 
 Godoy, M.; Souza de Carvalho, R. S. (2020) Efeitos sintáticos e temáticos na resolução de pronomes ambíguos em Português Brasileiro. Revista do GELNE, v. 22, n. 2, p. 131-142, doi: 10.21680/1517-7874.2020v22n2ID20183. [link](https://periodicos.ufrn.br/gelne/article/view/20183)
 
-Godoy, M. C.; Nunes, M. A. (2020) Uma comparação entre ANOVA e modelos lineares mistos para análise de dados de tempo de resposta. Revista da ABRALIN, v. 19, n. 1, p. 1-23, doi: 10.25189/rabralin.v19i1.1388 [link](https://revista.abralin.org/index.php/abralin/article/view/1388)
+Godoy, M. C.; Nunes, M. A. (2020) Uma comparação entre ANOVA e modelos lineares mistos para análise de dados de tempo de resposta. Revista da ABRALIN, v. 19, n. 1, p. 1-23, doi: 10.25189/rabralin.v19i1.1388 [link](https://revista.abralin.org/index.php/abralin/article/view/1388) | [OSF](https://osf.io/efxt4/)
 
 Godoy, M. C.; Souza Filho, N. S.; Souza, J. G. M.; Alves, H.; Kawahara, S. (2020) Gotta name’em all: an experimental study on the sound symbolism of Pokémon names in Brazilian Portuguese 49, 717–740. Journal of Psycholinguistic Research, doi: 10.1007/s10936-019-09679-2. [link](https://link.springer.com/article/10.1007/s10936-019-09679-2)
 
@@ -64,9 +64,9 @@ Godoy, M. C. (2010) Resolvendo a anáfora conceitual: um olhar para além da rel
 
 ### Resumos e posteres
 
-Godoy, M. C.; Sá, T. M. M. (2020) Investigando a resolução de descrições definidas anafóricas a partir de modelos probabilísticos de processamento pronominal. II Encontro Mineiro de Psicolinguística. [resumo](/GodoySa_resumo.pdf), [poster](/GodoySa_poster.pdf), [vídeo](https://www.youtube.com/watch?v=lvu4lIL_AK8&feature=emb_logo&ab_channel=EncontroMineirodePsicolingu%C3%ADstica)
+Godoy, M. C.; Sá, T. M. M. (2020) Investigando a resolução de descrições definidas anafóricas a partir de modelos probabilísticos de processamento pronominal. II Encontro Mineiro de Psicolinguística. [resumo](/GodoySa_resumo.pdf) | [poster](/GodoySa_poster.pdf) | [vídeo](https://www.youtube.com/watch?v=lvu4lIL_AK8&feature=emb_logo&ab_channel=EncontroMineirodePsicolingu%C3%ADstica)
 
-Souza-Filho, N. S., Godoy, M.C., (2020) Um significativo mas pequeno efeito: antecipação lexical em leitura autocadenciada. II Encontro Mineiro de Psicolinguística. [resumo](/SouzaFilhoGodoy_resumo.pdf),[poster](/SouzaFilhoGodoy_poster.pdf), [vídeo](https://www.youtube.com/watch?v=vHjifpQPFqA&feature=emb_logo&ab_channel=EncontroMineirodePsicolingu%C3%ADstica)
+Souza-Filho, N. S., Godoy, M.C., (2020) Um significativo mas pequeno efeito: antecipação lexical em leitura autocadenciada. II Encontro Mineiro de Psicolinguística. [resumo](/SouzaFilhoGodoy_resumo.pdf) | [poster](/SouzaFilhoGodoy_poster.pdf) | [vídeo](https://www.youtube.com/watch?v=vHjifpQPFqA&feature=emb_logo&ab_channel=EncontroMineirodePsicolingu%C3%ADstica)
 
 Souza-Filho, N. S., Godoy, M.C., (2020) Lexical prediction mechanisms in Brazilian Portuguese: addressing methodological issues. Architectures and Mechanisms of Language Processing 2020. [poster, resumo e vídeo (em inglês)](https://osf.io/n7365/)
 

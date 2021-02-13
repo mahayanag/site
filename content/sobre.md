@@ -8,7 +8,7 @@ Sou professora da Universidade Federal do Rio Grande do Norte desde 2015. Fiz me
 
 Atualmente, integro a linha *Discurso, Cognição e Interação* no Programa de Pós-graduação em Estudos da Linguagem da UFRN, e a linha *Processamento da Linguagem* no Programa de Pós-graduação em Estudos Linguísticos da UFMG. 
 
-Também sou coordenadora do Laboratório de Estudos Experimentais em Linguagem (LEELin/UFRN) e membro do [Laboratório de Psicolinguística](http://www.letras.ufmg.br/psicolinguistica/) (UFMG).
+Também sou coordenadora do Laboratório de Estudos Experimentais em Linguagem (LEELin/UFRN) e membro do Laboratório de Psicolinguística (UFMG).
 
 
 
