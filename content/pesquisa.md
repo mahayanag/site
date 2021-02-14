@@ -16,7 +16,7 @@ Recentemente, também tenho me interessado por simbolismo sonoro, a ideia de que
 
 ### Artigos
 
-Godoy, M.; Gomes, A.; Kumagai, G.; Kawahara, S. (2021)  Sound symbolism in Brazilian Portuguese Pokémon names: Evidence for cross-linguistic similarities and differences. Journal of Portuguese Linguistics, 20: 1, pp. 1–23. DOI: 10.5334/jpl.257 [link](https://doi.org/10.5334/jpl.257) | [git](https://github.com/mahayanag/JPL_Pokemonastics)
+Godoy, M.; Gomes, A.; Kumagai, G.; Kawahara, S. (2021)  Sound symbolism in Brazilian Portuguese Pokémon names: Evidence for cross-linguistic similarities and differences. Journal of Portuguese Linguistics, 20: 1, pp. 1–23. DOI: 10.5334/jpl.257 [link](https://doi.org/10.5334/jpl.257) | [github](https://github.com/mahayanag/JPL_Pokemonastics)
 
 Kawahara, S.; Godoy, M.; Gakuji, K. (2020) Do sibilants fly? Evidence from a sound symbolic pattern in Pokémon names. Open Linguistics 6 (1), 386-400. DOI: 10.1515/opli-2020-0027 [link](https://www.degruyter.com/view/journals/opli/6/1/article-p386.xml)
 
