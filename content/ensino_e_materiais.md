@@ -8,7 +8,13 @@ Sou professora das disciplinas de Linguística dos cursos de Letras e Fonoaudiol
 
 No Programa de Pós-graduação em Estudos Linguísticos (Poslin) da UFMG, costumo oferecer disciplinas de análise de dados quantitativos.
 
-Em 2020, estarei afastada para estágio como pesquisadora visitante no Centro de Ciências e Tecnologia de Mendoza (CONICET - Mendoza).
+Em 2021, ofereço as seguintes disciplinas:
+
+- Níveis de Análise e Teorias Linguísticas (UFRN, 2021-1; início em junho/2021)
+
+- Tópicos em Psicolinguística (UFRN, 2021-1; início em junho/2021)
+
+- Introdução à estatística para Psicolinguística (PPgEL/UFRN, 2021-1; início em agosto/2021)
 
 
 
