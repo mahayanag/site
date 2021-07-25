@@ -16,7 +16,7 @@ Recentemente, também tenho me interessado por simbolismo sonoro, a ideia de que
 
 ### Artigos
 
-Kawahara, S.; Godoy, M.; Gakuji, K. (2021). English Speakers Can Infer Pokémon Types Based on Sound Symbolism. Frontiers in Psychology 12:648948. doi: 10.3389/fpsyg.2021.648948 [link](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.648948/full)
+Kawahara, S.; Godoy, M.; Kumagai, G. (2021). English Speakers Can Infer Pokémon Types Based on Sound Symbolism. Frontiers in Psychology 12:648948. doi: 10.3389/fpsyg.2021.648948 [link](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.648948/full)
 
 Godoy, M.; Gomes, A.; Kumagai, G.; Kawahara, S. (2021)  Sound symbolism in Brazilian Portuguese Pokémon names: Evidence for cross-linguistic similarities and differences. Journal of Portuguese Linguistics, 20: 1, pp. 1–23. DOI: 10.5334/jpl.257 [link](https://doi.org/10.5334/jpl.257) | [github](https://github.com/mahayanag/JPL_Pokemonastics)
 
