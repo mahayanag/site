@@ -16,13 +16,15 @@ Recentemente, também tenho me interessado por simbolismo sonoro, a ideia de que
 
 ### Artigos
 
+Carvalho, R. S. S.; Godoy, M. (2021) Viés de causalidade implícita para 50 predicados do Português Brasileiro. Caligrama, Belo Horizonte, v. 26, n. 2, p. 89-105. DOI: 10.17851/2358-9787.26.1.89-105 [link](http://www.periodicos.letras.ufmg.br/index.php/caligrama/article/view/18315/1125614170)
+
 Kawahara, S.; Godoy, M.; Kumagai, G. (2021). English Speakers Can Infer Pokémon Types Based on Sound Symbolism. Frontiers in Psychology 12:648948. doi: 10.3389/fpsyg.2021.648948 [link](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.648948/full)
 
 Godoy, M.; Gomes, A.; Kumagai, G.; Kawahara, S. (2021)  Sound symbolism in Brazilian Portuguese Pokémon names: Evidence for cross-linguistic similarities and differences. Journal of Portuguese Linguistics, 20: 1, pp. 1–23. DOI: 10.5334/jpl.257 [link](https://doi.org/10.5334/jpl.257) | [github](https://github.com/mahayanag/JPL_Pokemonastics)
 
 Kawahara, S.; Godoy, M.; Gakuji, K. (2020) Do sibilants fly? Evidence from a sound symbolic pattern in Pokémon names. Open Linguistics 6 (1), 386-400. DOI: 10.1515/opli-2020-0027 [link](https://www.degruyter.com/view/journals/opli/6/1/article-p386.xml)
 
-Godoy, M.; Souza de Carvalho, R. S. (2020) Efeitos sintáticos e temáticos na resolução de pronomes ambíguos em Português Brasileiro. Revista do GELNE, v. 22, n. 2, p. 131-142, doi: 10.21680/1517-7874.2020v22n2ID20183. [link](https://periodicos.ufrn.br/gelne/article/view/20183)
+Godoy, M.; Carvalho, R. S. S. (2020) Efeitos sintáticos e temáticos na resolução de pronomes ambíguos em Português Brasileiro. Revista do GELNE, v. 22, n. 2, p. 131-142, doi: 10.21680/1517-7874.2020v22n2ID20183. [link](https://periodicos.ufrn.br/gelne/article/view/20183)
 
 Godoy, M. C.; Nunes, M. A. (2020) Uma comparação entre ANOVA e modelos lineares mistos para análise de dados de tempo de resposta. Revista da ABRALIN, v. 19, n. 1, p. 1-23, doi: 10.25189/rabralin.v19i1.1388 [link](https://revista.abralin.org/index.php/abralin/article/view/1388) | [OSF](https://osf.io/efxt4/)
 
