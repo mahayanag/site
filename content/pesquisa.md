@@ -16,6 +16,8 @@ Recentemente, também tenho me interessado por simbolismo sonoro, a ideia de que
 
 ### Artigos
 
+Souza Filho, N. S.; Godoy, M. C. (2022/no prelo) Psicolinguística e Modelos Baseados no Uso. Revista de Estudos da Linguagem, v.30, n.2. 
+
 Carvalho, R. S. S.; Godoy, M. (2021) Viés de causalidade implícita para 50 predicados do Português Brasileiro. Caligrama, Belo Horizonte, v. 26, n. 2, p. 89-105. DOI: 10.17851/2358-9787.26.1.89-105 [link](http://www.periodicos.letras.ufmg.br/index.php/caligrama/article/view/18315/1125614170)
 
 Kawahara, S.; Godoy, M.; Kumagai, G. (2021). English Speakers Can Infer Pokémon Types Based on Sound Symbolism. Frontiers in Psychology 12:648948. doi: 10.3389/fpsyg.2021.648948 [link](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.648948/full)
