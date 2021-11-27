@@ -6,15 +6,11 @@ date = "2014-04-09"
 
 Sou professora das disciplinas de Linguística dos cursos de Letras e Fonoaudiologia da UFRN. Além disso, costumo ministrar disciplinas em temas relacionados a psicolinguística, métodos experimentais e análise estatística de dados no Programa de Pós-graduação em Estudos da Linguagem da UFRN. 
 
-No Programa de Pós-graduação em Estudos Linguísticos (Poslin) da UFMG, costumo oferecer disciplinas de análise de dados quantitativos.
+Em 2021/2, ofereço as seguintes disciplinas:
 
-Em 2021, ofereço as seguintes disciplinas:
+- Introdução aos Estudos da Linguagem (UFRN; início em outubro/2021)
 
-- Níveis de Análise e Teorias Linguísticas (UFRN, 2021-1; início em junho/2021)
-
-- Tópicos em Psicolinguística (UFRN, 2021-1; início em junho/2021)
-
-- Introdução à estatística para Psicolinguística (PPgEL/UFRN, 2021-1; início em agosto/2021)
+- Introdução à estatística para Psicolinguística (PPgEL/UFRN; início em agosto/2021)
 
 
 
@@ -24,7 +20,7 @@ Abaixo listo alguns materiais produzidos para cursos e workshops. Para uma lista
 
 ### Estatística e R
 
-+ Curso online de [*Estatística para as Ciências da Linguagem*](https://www.youtube.com/playlist?list=PLE4HwfVNrSWQwm_62G49CZTXi7dqMzsuC), disponível no youtube. Os vídeos estão sendo gravados ao longo de 2020/2021 
++ Curso online de [*Estatística para as Ciências da Linguagem*](https://www.youtube.com/playlist?list=PLE4HwfVNrSWQwm_62G49CZTXi7dqMzsuC), disponível no youtube. Os vídeos foram gravados ao longo de 2020/2021, mas o curso não está completo.
 
 + Material antigo do curso de [*Introdução à estatística e ao R para linguistas*](https://github.com/mahayanag/intro_estatistica_linguistica), oferecido na UFRN
 
