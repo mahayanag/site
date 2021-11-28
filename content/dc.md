@@ -4,7 +4,7 @@ date = "2014-04-09"
 +++
 
 
-Quando não estou trabalhando com Psicolinguística, tento convencer as outras pessoas de que Linguística é legal. Faço isso atuando como embaixadora da [**Olimpíada Brasileira de Linguística**](obling.org).
+Quando não estou trabalhando com Psicolinguística, tento convencer as outras pessoas de que Linguística é legal.
 
 
 Abaixo, listo entrevistas e minhas publicações escritas para um público não-acadêmico. 
