@@ -6,11 +6,13 @@ date = "2014-04-09"
 
 Sou professora das disciplinas de Linguística dos cursos de Letras e Fonoaudiologia da UFRN. Além disso, costumo ministrar disciplinas em temas relacionados a psicolinguística, métodos experimentais e análise estatística de dados no Programa de Pós-graduação em Estudos da Linguagem da UFRN. 
 
-Em 2021/2, ofereço as seguintes disciplinas:
+Em 2022/2, ofereço as seguintes disciplinas:
 
-- Introdução aos Estudos da Linguagem (UFRN; início em outubro/2021)
+- Níveis de Análise e Teorias Linguísticas (graduação - UFRN)
 
-- Introdução à estatística para Psicolinguística (PPgEL/UFRN; início em agosto/2021)
+- Texto e Discurso (graduação - UFRN)
+
+- Língua, Estrutura e Uso (PPgEL/UFRN)
 
 
 
