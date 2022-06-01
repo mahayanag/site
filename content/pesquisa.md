@@ -8,7 +8,7 @@ Minhas pesquisa atuais se desenvolvem a partir de dois temas principais.
 
 Desde o doutorado, estudo processamento discursivo, em especial questões relacionadas ao processamento referencial. Dentro desses temas, investigo como integramos as informações linguísticas que lemos/ouvimos aos nossos conhecimentos de mundo e da situação comunicativa para tentar prever o que será dito em partes posteriores do texto (veja Godoy, Mafra e Weissheimer (2018) como referência). 
 
-Em outra linha, também me interesso pelo papel da iconicidade na estruturação do léxico de línguas naturais, nos processos comunicativos e na aquisição da linguagem. Em especial, tenho trabalho com simbolismo sonoro, a ideia de que determinados sons da língua remetem a percepções sensoriais de tamanho, forma, luz, cor etc (veja Godoy, Souza Filho, Souza, Alves e Kawahara (2020) como referência).
+Em outra linha, também me interesso pelo papel da iconicidade na estruturação do léxico de línguas naturais, nos processos comunicativos e na aquisição da linguagem. Em especial, tenho trabalhado com simbolismo sonoro, a ideia de que determinados sons da língua remetem a percepções sensoriais de tamanho, forma, luz, cor etc (veja Godoy, Souza Filho, Souza, Alves e Kawahara (2020) como referência).
 
 Todos os meus trabalhos são desenvolvidos a partir de experimentos comportamentais e análise quantitativa. 
 
