@@ -4,11 +4,13 @@ date = "2014-04-09"
 +++
 
 
-Meus temas principais de pesquisa são o processamento lexical e discursivo, especialmente questões relacionadas ao processamento referencial. Dentro desses temas, investigo como integramos as informações linguísticas que lemos/ouvimos aos nossos conhecimentos de mundo e da situação comunicativa para tentar prever o que será dito em partes posteriores do texto. 
+Minhas linhas de pesquisa atuais se desenvolvem em dois temas principais. 
 
-Recentemente, também tenho me interessado pelo papel da iconicidade na estruturação do léxico de línguas naturais, nos processos comunicativos e de aquisição da linguagem. Em especial, tenho trabalho com simbolismo sonoro, a ideia de que determinados sons da língua remetem a percepções sensoriais de tamanho, forma, luz, cor etc.
+Desde o doutorado, estudo processamento discursivo, em especial questões relacionadas ao processamento referencial. Dentro desses temas, investigo como integramos as informações linguísticas que lemos/ouvimos aos nossos conhecimentos de mundo e da situação comunicativa para tentar prever o que será dito em partes posteriores do texto (veja Godoy, Mafra e Weissheimer (2018) como referência). 
 
-Todos os meus trabalhos são desenvolvidos a partir de experimentos comportamentais e análise quantitativa.
+Em outra linha, também me interesso pelo papel da iconicidade na estruturação do léxico de línguas naturais, nos processos comunicativos e na aquisição da linguagem. Em especial, tenho trabalho com simbolismo sonoro, a ideia de que determinados sons da língua remetem a percepções sensoriais de tamanho, forma, luz, cor etc (veja Godoy, Souza Filho, Souza, Alves e Kawahara (2020) como referência).
+
+Todos os meus trabalhos são desenvolvidos a partir de experimentos comportamentais e análise quantitativa. 
 
 
 
