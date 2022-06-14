@@ -18,7 +18,9 @@ Todos os meus trabalhos são desenvolvidos a partir de experimentos comportament
 
 ### Artigos
 
-Souza Filho, N. S.; Godoy, M. C. (2022/no prelo) Psicolinguística e Modelos Baseados no Uso. Revista de Estudos da Linguagem, v.30, n.2. 
+Godoy, M. C.; Ananias, T. C. (to appear) The bouba-kiki effect in a production task. Proceedings of the 44th Annual Conference of the Cognitive Science Society
+
+Souza Filho, N. S.; Godoy, M. C. (2022) Psicolinguística e Modelos Baseados no Uso. Revista de Estudos da Linguagem, v.30, n.2. doi: 10.17851/2237-2083.27.4.1103-1133 [link](http://www.periodicos.letras.ufmg.br/index.php/relin/article/view/18702/pdf)
 
 Carvalho, R. S. S.; Godoy, M. (2021) Viés de causalidade implícita para 50 predicados do Português Brasileiro. Caligrama, Belo Horizonte, v. 26, n. 2, p. 89-105. DOI: 10.17851/2358-9787.26.1.89-105 [link](http://www.periodicos.letras.ufmg.br/index.php/caligrama/article/view/18315/1125614170)
 
