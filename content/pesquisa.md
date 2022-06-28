@@ -18,7 +18,7 @@ Todos os meus trabalhos são desenvolvidos a partir de experimentos comportament
 
 ### Artigos
 
-Godoy, M. C.; Ananias, T. C. (to appear) The bouba-kiki effect in a production task. Proceedings of the 44th Annual Conference of the Cognitive Science Society
+Godoy, M. C.; Ananias, T. C. (2022) The bouba-kiki effect in a production task. In J. Culbertson, A. Perfors, H. Rabagliati & V. Ramenzoni (Eds.), Proceedings of the 44th Annual Conference of the Cognitive Science Society. [link](https://escholarship.org/content/qt7h22c1kh/qt7h22c1kh.pdf)
 
 Souza Filho, N. S.; Godoy, M. C. (2022) Psicolinguística e Modelos Baseados no Uso. Revista de Estudos da Linguagem, v.30, n.2. doi: 10.17851/2237-2083.27.4.1103-1133 [link](http://www.periodicos.letras.ufmg.br/index.php/relin/article/view/18702/pdf)
 
