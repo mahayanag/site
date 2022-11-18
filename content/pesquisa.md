@@ -16,6 +16,12 @@ Todos os meus trabalhos são desenvolvidos a partir de experimentos comportament
 
 ## Publicações
 
+### Capítulos de Livros
+
+Godoy, M. C., Luegi, P., Sampaio, T. O. M. (2023, no prelo) Psycholinguistics. In Carvalho e Oushiro (eds), The Oxford Handbook of the Portuguese Language. Oxford University Press.
+
+Sá, T. M. M., Ciríaco, L., Godoy, M. (2022) Julgamento de aceitabilidade: um método de fácil acesso a dados quantitativos. In Oliveira e Sá (eds.), Métodos experimentais em psicolinguística. São Paulo: Pá de Palavra.
+
 ### Artigos
 
 Godoy, M. C.; Ananias, T. C. (2022) The bouba-kiki effect in a production task. In J. Culbertson, A. Perfors, H. Rabagliati & V. Ramenzoni (Eds.), Proceedings of the 44th Annual Conference of the Cognitive Science Society. [link](https://escholarship.org/content/qt7h22c1kh/qt7h22c1kh.pdf)
