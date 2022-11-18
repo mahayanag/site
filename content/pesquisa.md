@@ -4,7 +4,7 @@ date = "2014-04-09"
 +++
 
 
-Minhas pesquisa atuais se desenvolvem a partir de dois temas principais. 
+Atualmente, minhas pesquisa se desenvolvem a partir de dois temas principais. 
 
 Desde o doutorado, estudo processamento discursivo, em especial questões relacionadas ao processamento referencial. Dentro desses temas, investigo como integramos as informações linguísticas que lemos/ouvimos aos nossos conhecimentos de mundo e da situação comunicativa para tentar prever o que será dito em partes posteriores do texto (veja Godoy, Mafra e Weissheimer (2018) como referência). 
 
