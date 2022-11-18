@@ -30,7 +30,7 @@ Souza Filho, N. S.; Godoy, M. C. (2022) Psicolinguística e Modelos Baseados no 
 
 Carvalho, R. S. S.; Godoy, M. (2021) Viés de causalidade implícita para 50 predicados do Português Brasileiro. Caligrama, Belo Horizonte, v. 26, n. 2, p. 89-105. DOI: 10.17851/2358-9787.26.1.89-105 [link](http://www.periodicos.letras.ufmg.br/index.php/caligrama/article/view/18315/1125614170)
 
-Kawahara, S.; Godoy, M.; Kumagai, G. (2021). English Speakers Can Infer Pokémon Types Based on Sound Symbolism. Frontiers in Psychology 12:648948. doi: 10.3389/fpsyg.2021.648948 [link](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.648948/full)
+Kawahara, S.; Godoy, M.; Kumagai, G. (2021). English Speakers Can Infer Pokémon Types Based on Sound Symbolism. Frontiers in Psychology 12:648948. DOI: 10.3389/fpsyg.2021.648948 [link](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.648948/full)
 
 Godoy, M.; Gomes, A.; Kumagai, G.; Kawahara, S. (2021)  Sound symbolism in Brazilian Portuguese Pokémon names: Evidence for cross-linguistic similarities and differences. Journal of Portuguese Linguistics, 20: 1, pp. 1–23. DOI: 10.5334/jpl.257 [link](https://doi.org/10.5334/jpl.257) | [github](https://github.com/mahayanag/JPL_Pokemonastics)
 
