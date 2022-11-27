@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Mon, 01 Oct 2018 16:15:09 +0800</lastBuildDate>
-    
-	<atom:link href="https://mahayana.me/tags/image/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 01 Oct 2018 16:15:09 +0800</lastBuildDate><atom:link href="https://mahayana.me/tags/image/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Post With Featured Image</title>
       <link>https://mahayana.me/posts/post-with-featured-image/</link>
@@ -19,7 +15,8 @@
       
       <guid>https://mahayana.me/posts/post-with-featured-image/</guid>
       <description>Just define the image URL in the content’s front matter, the featured image will be displayed as the background.
-For example:</description>
+For example:
+featuredImg: &amp;#34;https://picsum.photos/1024/768/?random&amp;#34; </description>
     </item>
     
   </channel>

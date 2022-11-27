@@ -2,64 +2,109 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mahayana Godoy</title>
-    <link>https://mahayana.me/</link>
+    <link>https://mahayana.me/index.html</link>
     <description>Recent content on Mahayana Godoy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Mon, 01 Oct 2018 16:15:09 +0800</lastBuildDate>
-    
-	<atom:link href="https://mahayana.me/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://mahayana.me/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Post With Featured Image</title>
-      <link>https://mahayana.me/posts/post-with-featured-image/</link>
+      <title>Demo</title>
+      <link>https://mahayana.me/tags/demo/</link>
       <pubDate>Mon, 01 Oct 2018 16:15:09 +0800</pubDate>
       
-      <guid>https://mahayana.me/posts/post-with-featured-image/</guid>
-      <description>Just define the image URL in the content’s front matter, the featured image will be displayed as the background.
-For example:</description>
+      <guid>https://mahayana.me/tags/demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image</title>
+      <link>https://mahayana.me/tags/image/</link>
+      <pubDate>Mon, 01 Oct 2018 16:15:09 +0800</pubDate>
+      
+      <guid>https://mahayana.me/tags/image/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>https://mahayana.me/tags/</link>
+      <pubDate>Mon, 01 Oct 2018 16:15:09 +0800</pubDate>
+      
+      <guid>https://mahayana.me/tags/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Typography</title>
-      <link>https://mahayana.me/posts/typography/</link>
+      <link>https://mahayana.me/tags/typography/</link>
       <pubDate>Sat, 29 Sep 2018 11:36:33 +0800</pubDate>
       
-      <guid>https://mahayana.me/posts/typography/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
- An apple is a sweet, edible fruit produced by an apple tree (Malus pumila).</description>
+      <guid>https://mahayana.me/tags/typography/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Creating a New Theme</title>
-      <link>https://mahayana.me/posts/creating-a-new-theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <title>development</title>
+      <link>https://mahayana.me/tags/development/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://mahayana.me/posts/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+      <guid>https://mahayana.me/tags/development/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Contato</title>
-      <link>https://mahayana.me/contato/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      <title>go</title>
+      <link>https://mahayana.me/tags/go/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://mahayana.me/contato/</guid>
-      <description>Para entrar em contato, escreva para mahayanag [arroba] gmail</description>
+      <guid>https://mahayana.me/tags/go/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Divulgação Científica</title>
-      <link>https://mahayana.me/dc/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      <title>golang</title>
+      <link>https://mahayana.me/tags/golang/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://mahayana.me/dc/</guid>
-      <description>Quando não estou trabalhando com Psicolinguística, tento convencer as outras pessoas de que Linguística é legal. Eu faço isso atuando como embaixadora da Olimpíada Brasileira de Linguística e editora da Roseta, a revista de Divulgação Científica da Associação Brasileira de Linguística.
-Abaixo você encontra links para alguns materiais sobre minhas pesquisas em simbolismo sonoro, bem como uma lista de materiais de Divulgação Científica em Linguística.
-Publicações O que há em um nome: simbolismo sonoro e linguagem (Revista Roseta)</description>
+      <guid>https://mahayana.me/tags/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://mahayana.me/tags/hugo/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://mahayana.me/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>templates</title>
+      <link>https://mahayana.me/tags/templates/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://mahayana.me/tags/templates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>themes</title>
+      <link>https://mahayana.me/tags/themes/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://mahayana.me/tags/themes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
+  <guid>https://mahayana.me/dc/</guid>
+      <description>Quando não estou trabalhando com Psicolinguística, tento convencer as outras pessoas de que Linguística é legal.
+Abaixo, listo entrevistas e minhas publicações escritas para um público não-acadêmico. Publicações e entrevistas O que há em um nome: simbolismo sonoro e linguagem (Revista Roseta)
+Sócrates, Pokémon e simbolismo sonoro (Blog #Linguística)
+Como representamos os sentidos de palavras? (Revista Roseta)
+Minha participação no Dragões de Garagem para falar sobre simbolismo sonoro</description>
     </item>
     
     <item>
@@ -68,9 +113,12 @@ Publicações O que há em um nome: simbolismo sonoro e linguagem (Revista Roset
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>https://mahayana.me/ensino_e_materiais/</guid>
-      <description>Disciplinas Sou professora das disciplinas de Linguística dos cursos de Letras e Fonoaudiologia da UFRN. Além disso, costumo ministrar disciplinas em temas relacionados a psicolinguística, métodos experimentais e análise estatística de dados no Programa de Pós-graduação em Estudos da Linguagem (PPgEL/UFRN).
-Em 2020.1 estarei afastada para estágio como pesquisadora visitante no Centro de Ciências e Tecnologia de Mendoza (CONICET - Mendoza). Por esse motivo, não oferecerei disciplinas neste período.
-Materiais Abaixo há alguns materiais produzidos para cursos e workshops.</description>
+      <description>Sou professora das disciplinas de Linguística dos cursos de Letras e Fonoaudiologia da UFRN. Além disso, costumo ministrar disciplinas em temas relacionados a psicolinguística, métodos experimentais e análise estatística de dados no Programa de Pós-graduação em Estudos da Linguagem da UFRN.
+Em 2022/2, ofereço as seguintes disciplinas:
+Níveis de Análise e Teorias Linguísticas (graduação - UFRN)
+Texto e Discurso (graduação - UFRN)
+Língua, Estrutura e Uso (PPgEL/UFRN)
+Materiais Abaixo listo alguns materiais produzidos para cursos e workshops.</description>
     </item>
     
     <item>
@@ -79,8 +127,8 @@ Materiais Abaixo há alguns materiais produzidos para cursos e workshops.</descr
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>https://mahayana.me/pesquisa/</guid>
-      <description>Meus temas principais de pesquisa são o processamento lexical e referencial (especialmente pronomes ambíguos). Dentro desses temas, investigo como integramos as informações linguísticas que lemos/ouvimos aos nossos conhecimentos de mundo e da situação comunicativa para tentar prever o que será dito em partes posteriores do texto. Meus trabalhos são desenvolvidos a partir de experimentos comportamentais e análise quantitativa.
-Recentemente, também tenho me interessado por simbolismo sonoro, a ideia de que determinados sons da língua remetem a percepções sensoriais de tamanho, forma, luz, cor etc.</description>
+      <description>Todos os meus trabalhos partem da premissa de que é impossível entender a estrutura da linguagem sem considerar seu contexto de uso. Atualmente, minhas pesquisa se desenvolvem a partir de dois temas principais.
+O primeiro deles trata de questões relacionadas ao processamento referencial. Dentro desse temas, investigo como integramos as informações linguísticas que lemos/ouvimos aos nossos conhecimentos de mundo e da situação comunicativa para tentar prever o que será dito em partes posteriores do texto (veja Godoy, Mafra e Weissheimer (2018) como referência).</description>
     </item>
     
     <item>
@@ -89,7 +137,9 @@ Recentemente, também tenho me interessado por simbolismo sonoro, a ideia de que
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>https://mahayana.me/sobre/</guid>
-      <description>Desde 2015, sou professora da Universidade Federal do Rio Grande do Norte. Fiz meu doutorado em Linguística, com ênfase em Psicolinguística, na Universidade Estadual de Campinas. Atualmente, integro o quadro de professores do Programa de Pós-graduação em Estudos da Linguagem da UFRN (PPgEL/UFRN) e do Programa de Pós-graduação em Linguística da UFMG (Poslin/UFMG). Também sou coordenadora do Laboratório de Estudos Experimentais em Linguagem (LEELin/UFRN) e membro do Laboratório de Psicolinguística (UFMG).</description>
+      <description>Sou professora da Universidade Federal do Rio Grande do Norte desde 2015. Fiz meu doutorado em Linguística, com ênfase em Psicolinguística, na Universidade Estadual de Campinas.
+Atualmente, integro a linha Discurso, Cognição e Interação no Programa de Pós-graduação em Estudos da Linguagem da UFRN, e a linha Processamento da Linguagem no Programa de Pós-graduação em Estudos Linguísticos da UFMG.
+Também sou coordenadora do Laboratório de Estudos Experimentais em Linguagem (LEELin/UFRN) e membro do Laboratório de Psicolinguística (UFMG).</description>
     </item>
     
     <item>
@@ -113,7 +163,7 @@ Save it somewhere specific as we will be using it in the next step.
 More complete instructions are available at Install Hugo
 Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
 Follow the following steps:
- Clone the Hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
+Clone the Hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313 Corresponding pseudo commands:</description>
     </item>
     
   </channel>
