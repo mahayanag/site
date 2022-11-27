@@ -1,8 +1,8 @@
 baseURL = "https://mahayana.me"
 languageCode = "en-us"
-defaultContentLanguage = "en"
 title = "Mahayana Godoy"
-theme = "hermit"
+#theme = "hermit"
+theme = "recluse"
 # enableGitInfo = true
 pygmentsCodefences  = true
 pygmentsUseClasses  = true
