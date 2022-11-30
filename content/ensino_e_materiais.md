@@ -4,16 +4,21 @@ date = "2014-04-09"
 +++
 
 
-Sou professora das disciplinas de Linguística dos cursos de Letras e Fonoaudiologia da UFRN. Além disso, costumo ministrar disciplinas em temas relacionados a psicolinguística, métodos experimentais e análise estatística de dados no Programa de Pós-graduação em Estudos da Linguagem da UFRN. 
+Sou professora das disciplinas de Linguística dos cursos de Letras e Fonoaudiologia da UFRN. Além disso, costumo ministrar disciplinas em temas relacionados a psicolinguística, métodos experimentais e análise estatística de dados no Programa de Pós-graduação em Estudos da Linguagem da UFRN. Também oriento pesquisas de IC e pós-graduação. 
 
-Em 2022/2, ofereço as seguintes disciplinas:
+Em 2022/2, estou afastada das atividades de docência para licença maternidade.
 
-- Níveis de Análise e Teorias Linguísticas (graduação - UFRN)
+## Orientações em andamento
 
-- Texto e Discurso (graduação - UFRN)
+Bruno de Araújo Cabral (graduação em Letras - Língua Portuguesa): Resolução de referência e ambiguidade em PB.
 
-- Língua, Estrutura e Uso (PPgEL/UFRN)
+Iago Pedro Mendes Pires Veras (Mestrado em Estudos da Linguagem): Como funciona a iconicidade na Língua Brasileira de Sinais e na Cena de Várzea Queimada: comparando línguas de sinais emergentes e estáveis. 
 
+Thayná Cristina Ananias (Mestrado em Estudos da Linguagem): O simbolismo sonoro e a alfabetização: uma relação significativa?
+
+Rodrigo Andrade de Souza (Mestrado em Estudos da Linguagem): O gênero gramatical no processamento lexical de bilíngues espanhol-português: um estudo sobre a influência na segunda língua na língua nativa. 
+
+Para uma lista de orientações concluídas, consulte meu [currículo lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do;jsessionid=8477EA03181F44DFE37BCA0EE8BF3061.buscatextual_3)
 
 
 ## Materiais

@@ -2,75 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mahayana.me/tags/demo/</loc>
-    <lastmod>2018-10-01T16:15:09+08:00</lastmod>
-  </url><url>
-    <loc>https://mahayana.me/tags/image/</loc>
-    <lastmod>2018-10-01T16:15:09+08:00</lastmod>
-  </url><url>
-    <loc>https://mahayana.me/</loc>
-    <lastmod>2018-10-01T16:15:09+08:00</lastmod>
-  </url><url>
-    <loc>https://mahayana.me/posts/post-with-featured-image/</loc>
-    <lastmod>2018-10-01T16:15:09+08:00</lastmod>
-  </url><url>
-    <loc>https://mahayana.me/posts/</loc>
-    <lastmod>2018-10-01T16:15:09+08:00</lastmod>
-  </url><url>
-    <loc>https://mahayana.me/tags/</loc>
-    <lastmod>2018-10-01T16:15:09+08:00</lastmod>
-  </url><url>
-    <loc>https://mahayana.me/tags/typography/</loc>
-    <lastmod>2018-09-29T11:36:33+08:00</lastmod>
-  </url><url>
-    <loc>https://mahayana.me/posts/typography/</loc>
-    <lastmod>2018-09-29T11:36:33+08:00</lastmod>
-  </url><url>
-    <loc>https://mahayana.me/posts/creating-a-new-theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mahayana.me/contato/</loc>
+    <loc>/contato/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mahayana.me/dc/</loc>
+    <loc>/dc/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mahayana.me/ensino_e_materiais/</loc>
+    <loc>/ensino_e_materiais/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mahayana.me/pesquisa/</loc>
+    <loc>/pesquisa/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mahayana.me/sobre/</loc>
+    <loc>/sobre/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mahayana.me/posts/goisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>/index.html</loc>
   </url><url>
-    <loc>https://mahayana.me/tags/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>/</loc>
   </url><url>
-    <loc>https://mahayana.me/posts/hugoisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mahayana.me/tags/go/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mahayana.me/tags/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mahayana.me/tags/hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mahayana.me/tags/templates/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mahayana.me/tags/themes/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mahayana.me/posts/migrate-from-jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mahayana.me/index.html</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>

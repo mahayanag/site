@@ -2,104 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mahayana Godoy</title>
-    <link>https://mahayana.me/index.html</link>
+    <link>/</link>
     <description>Recent content on Mahayana Godoy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://mahayana.me/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Demo</title>
-      <link>https://mahayana.me/tags/demo/</link>
-      <pubDate>Mon, 01 Oct 2018 16:15:09 +0800</pubDate>
+      <title>Contato</title>
+      <link>/contato/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://mahayana.me/tags/demo/</guid>
-      <description></description>
+      <guid>/contato/</guid>
+      <description>Para entrar em contato, escreva para mahayana.godoy [arroba] ufrn.br</description>
     </item>
     
     <item>
-      <title>Image</title>
-      <link>https://mahayana.me/tags/image/</link>
-      <pubDate>Mon, 01 Oct 2018 16:15:09 +0800</pubDate>
+      <title>Divulgação Científica</title>
+      <link>/dc/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://mahayana.me/tags/image/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tags</title>
-      <link>https://mahayana.me/tags/</link>
-      <pubDate>Mon, 01 Oct 2018 16:15:09 +0800</pubDate>
-      
-      <guid>https://mahayana.me/tags/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Typography</title>
-      <link>https://mahayana.me/tags/typography/</link>
-      <pubDate>Sat, 29 Sep 2018 11:36:33 +0800</pubDate>
-      
-      <guid>https://mahayana.me/tags/typography/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>development</title>
-      <link>https://mahayana.me/tags/development/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://mahayana.me/tags/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>go</title>
-      <link>https://mahayana.me/tags/go/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://mahayana.me/tags/go/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>golang</title>
-      <link>https://mahayana.me/tags/golang/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://mahayana.me/tags/golang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hugo</title>
-      <link>https://mahayana.me/tags/hugo/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://mahayana.me/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>templates</title>
-      <link>https://mahayana.me/tags/templates/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://mahayana.me/tags/templates/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>themes</title>
-      <link>https://mahayana.me/tags/themes/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://mahayana.me/tags/themes/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>
-  <guid>https://mahayana.me/dc/</guid>
+      <guid>/dc/</guid>
       <description>Quando não estou trabalhando com Psicolinguística, tento convencer as outras pessoas de que Linguística é legal.
 Abaixo, listo entrevistas e minhas publicações escritas para um público não-acadêmico. Publicações e entrevistas O que há em um nome: simbolismo sonoro e linguagem (Revista Roseta)
 Sócrates, Pokémon e simbolismo sonoro (Blog #Linguística)
@@ -109,10 +31,10 @@ Minha participação no Dragões de Garagem para falar sobre simbolismo sonoro</
     
     <item>
       <title>Ensino e Materiais</title>
-      <link>https://mahayana.me/ensino_e_materiais/</link>
+      <link>/ensino_e_materiais/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://mahayana.me/ensino_e_materiais/</guid>
+      <guid>/ensino_e_materiais/</guid>
       <description>Sou professora das disciplinas de Linguística dos cursos de Letras e Fonoaudiologia da UFRN. Além disso, costumo ministrar disciplinas em temas relacionados a psicolinguística, métodos experimentais e análise estatística de dados no Programa de Pós-graduação em Estudos da Linguagem da UFRN.
 Em 2022/2, ofereço as seguintes disciplinas:
 Níveis de Análise e Teorias Linguísticas (graduação - UFRN)
@@ -123,47 +45,23 @@ Materiais Abaixo listo alguns materiais produzidos para cursos e workshops.</des
     
     <item>
       <title>Pesquisa</title>
-      <link>https://mahayana.me/pesquisa/</link>
+      <link>/pesquisa/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://mahayana.me/pesquisa/</guid>
+      <guid>/pesquisa/</guid>
       <description>Todos os meus trabalhos partem da premissa de que é impossível entender a estrutura da linguagem sem considerar seu contexto de uso. Atualmente, minhas pesquisa se desenvolvem a partir de dois temas principais.
-O primeiro deles trata de questões relacionadas ao processamento referencial. Dentro desse temas, investigo como integramos as informações linguísticas que lemos/ouvimos aos nossos conhecimentos de mundo e da situação comunicativa para tentar prever o que será dito em partes posteriores do texto (veja Godoy, Mafra e Weissheimer (2018) como referência).</description>
+O primeiro deles trata de questões relacionadas ao processamento referencial. Nesse tema, investigo como integramos as informações linguísticas que lemos/ouvimos às nossas expectativas acerca do contexto comunicativo para tentar prever o que será dito em partes posteriores do texto (veja Godoy, Mafra e Weissheimer (2018) como referência).</description>
     </item>
     
     <item>
       <title>Sobre</title>
-      <link>https://mahayana.me/sobre/</link>
+      <link>/sobre/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://mahayana.me/sobre/</guid>
+      <guid>/sobre/</guid>
       <description>Sou professora da Universidade Federal do Rio Grande do Norte desde 2015. Fiz meu doutorado em Linguística, com ênfase em Psicolinguística, na Universidade Estadual de Campinas.
 Atualmente, integro a linha Discurso, Cognição e Interação no Programa de Pós-graduação em Estudos da Linguagem da UFRN, e a linha Processamento da Linguagem no Programa de Pós-graduação em Estudos Linguísticos da UFMG.
 Também sou coordenadora do Laboratório de Estudos Experimentais em Linguagem (LEELin/UFRN) e membro do Laboratório de Psicolinguística (UFMG).</description>
-    </item>
-    
-    <item>
-      <title>(Hu)go Template Primer</title>
-      <link>https://mahayana.me/posts/goisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://mahayana.me/posts/goisforlovers/</guid>
-      <description>Hugo uses the excellent Go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in Go templates.
-This document is a brief primer on using Go templates.</description>
-    </item>
-    
-    <item>
-      <title>Getting Started with Hugo</title>
-      <link>https://mahayana.me/posts/hugoisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://mahayana.me/posts/hugoisforlovers/</guid>
-      <description>Step 1. Install Hugo Go to Hugo releases and download the appropriate version for your OS and architecture.
-Save it somewhere specific as we will be using it in the next step.
-More complete instructions are available at Install Hugo
-Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
-Follow the following steps:
-Clone the Hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313 Corresponding pseudo commands:</description>
     </item>
     
   </channel>
