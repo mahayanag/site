@@ -4,7 +4,7 @@ date = "2014-04-09"
 +++
 
 
-Todos os meus trabalhos partem da premissa de que é impossível entender a estrutura da linguagem sem considerar seu contexto de uso. Atualmente, minhas pesquisa se desenvolvem a partir de dois temas principais. 
+Estudo processamento linguístico a partir da premissa de que só é possível entender a estrutura da linguagem ao considerar seu contexto de uso (veja Souza Filho e Godoy (2022) como referência). Atualmente, minhas pesquisas se desenvolvem a partir de dois temas principais. 
 
 O primeiro deles trata de questões relacionadas ao processamento referencial. Nesse tema, investigo como integramos as informações linguísticas que lemos/ouvimos às nossas expectativas acerca do contexto comunicativo para tentar prever o que será dito em partes posteriores do texto (veja Godoy, Mafra e Weissheimer (2018) como referência). 
 
@@ -23,6 +23,10 @@ Godoy, M. C., Luegi, P., Sampaio, T. O. M. (2023, no prelo) Psycholinguistics. I
 Sá, T. M. M., Ciríaco, L., Godoy, M. (2022) Julgamento de aceitabilidade: um método de fácil acesso a dados quantitativos. In Oliveira e Sá (eds.), Métodos experimentais em psicolinguística. São Paulo: Pá de Palavra.
 
 ### Artigos
+
+Ananias, T. C. ; Godoy, M. C. (2023, no prelo) Dando nomes: o efeito kiki-bouba em experimento de nomeação livre. Revista Linguística (Online).
+
+París, L.; Celi, M. A.; Tabullo, A.; GODOY, M. C.(2023) Not all English Resultative Constructions (ERCs) are equal: The acquisition of ERC by Spanish speakers, Language Acquisition, 30:2, 105-138, DOI: 10.1080/10489223.2022.2141634 [link](https://www.tandfonline.com/doi/full/10.1080/10489223.2022.2141634)
 
 Godoy, M. C.; Ananias, T. C. (2022) The bouba-kiki effect in a production task. In J. Culbertson, A. Perfors, H. Rabagliati & V. Ramenzoni (Eds.), Proceedings of the 44th Annual Conference of the Cognitive Science Society. [link](https://escholarship.org/content/qt7h22c1kh/qt7h22c1kh.pdf)
 
