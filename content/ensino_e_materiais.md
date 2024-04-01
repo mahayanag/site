@@ -4,22 +4,31 @@ date = "2014-04-09"
 +++
 
 
-Sou professora das disciplinas de Linguística dos cursos de Letras e Fonoaudiologia da UFRN. Além disso, costumo ministrar disciplinas em temas relacionados a psicolinguística, métodos experimentais e análise estatística de dados no Programa de Pós-graduação em Estudos da Linguagem da UFRN. Também oriento pesquisas de IC e pós-graduação. 
+Sou professora das disciplinas de Linguística dos cursos de Letras e Fonoaudiologia da UFRN. Além disso, costumo ministrar disciplinas em temas relacionados a psicolinguística, métodos experimentais e análise estatística de dados no Programa de Pós-graduação em Estudos da Linguagem da UFRN. Também oriento pesquisas de IC, mestrado e doutorado. 
 
-Em 2023/1, ministro os seguintes cursos:
+Em 2024/1, ministro os seguintes cursos:
 
-- Fundamentos dos Estudos Linguísticos (Letras/Português, UFRN)
-- Tópicos em LTD: Teorias de processamento da referência (PPgEL, UFRN)
+- Oficina de Planejamento de Projetos Temáticos: usando a Olimpíada Brasileira de Linguística e metodologia baseada em problemas no Ensino Médio (Letras/Português, UFRN)
+- Oficina de Divulgação Científica: criando problemas no estilo da Olimpíada Brasileira de Linguística para fazer divulgação científica (Letras/Português, UFRN)
+- Tópicos em LTD: Introdução à estatística para as ciências da Linguagem (PPgEL, UFRN)
 
 ## Orientações em andamento
 
-Bruno de Araújo Cabral (graduação em Letras - Língua Portuguesa): Resolução de referência e ambiguidade em PB.
+Lucas Lélio Oliveira de França: Mudança diacrônica e iconicidade. Início: 2023. Graduação em Letras - Língua Portuguesa (Orientadora).
 
-Iago Pedro Mendes Pires Veras (Mestrado em Estudos da Linguagem): Como funciona a iconicidade na Língua Brasileira de Sinais e na Cena de Várzea Queimada: comparando línguas de sinais emergentes e estáveis. 
+Marina Amorim Sinedino: Ambiguidade de descrições definidas: investigação com tempo de leitura. Início: 2023. Graduação em Letras - Língua Portuguesa (Orientadora)
 
-Thayná Cristina Ananias (Mestrado em Estudos da Linguagem): O simbolismo sonoro e a alfabetização: uma relação significativa?
+Thayná Cristina Ananias: Dissecando a iconicidade lexical: os fatores estruturais de uma palavra icônica. Início: 2024. Doutorado em Estudos da Linguagem (PPgEL/UFRN) (Orientadora).
 
-Rodrigo Andrade de Souza (Mestrado em Estudos da Linguagem): O gênero gramatical no processamento lexical de bilíngues espanhol-português: um estudo sobre a influência na segunda língua na língua nativa. 
+Rafael Luis Beraldo. Crise da Replicabilidade e a psicolinguística brasileira: um trabalho pioneiro de replicações experimentais. Início: 2019. Doutorado em Lingüística (IEL/Unicamp) (Coorientadora).
+
+Rute da Silva Barbalho. Processamento linguístico de pronomes pessoais: o viés da consequência implícita no português brasileiro. Início: 2023. Mestrado em Estudos da Linguagem (PPgEL/UFRN) (Orientadora).
+
+Renata Sabrinne Carvalho. Interpretação de pronomes ambíguos em contexto de transferência de posse. Início: 2023. Mestrado em Estudos da Linguagem (PPgEL/UFRN) (Orientadora).
+
+Iago Pedro Mendes Pires Veras: Como funciona a iconicidade na Língua Brasileira de Sinais e na Cena de Várzea Queimada: comparando línguas de sinais emergentes e estáveis. Início: 2022. Mestrado em Estudos da Linguagem (PPgEL/UFRN) (Orientadora).
+
+
 
 Para uma lista de orientações concluídas, consulte meu [currículo lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do;jsessionid=8477EA03181F44DFE37BCA0EE8BF3061.buscatextual_3)
 

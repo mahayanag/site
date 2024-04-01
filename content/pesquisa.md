@@ -18,13 +18,13 @@ Todos os meus trabalhos são desenvolvidos a partir de experimentos comportament
 
 ### Capítulos de Livros
 
-Godoy, M. C., Luegi, P., Sampaio, T. O. M. (2023, no prelo) Psycholinguistics. In Carvalho e Oushiro (eds), The Oxford Handbook of the Portuguese Language. Oxford University Press.
+Godoy, M. C., Luegi, P., Sampaio, T. O. M. (2024, no prelo) Psycholinguistics. In Carvalho e Oushiro (eds), The Oxford Handbook of the Portuguese Language. Oxford University Press.
 
 Sá, T. M. M., Ciríaco, L., Godoy, M. (2022) Julgamento de aceitabilidade: um método de fácil acesso a dados quantitativos. In Oliveira e Sá (eds.), Métodos experimentais em psicolinguística. São Paulo: Pá de Palavra.
 
 ### Artigos
 
-Ananias, T. C. ; Godoy, M. C. (2023, no prelo) Dando nomes: o efeito kiki-bouba em experimento de nomeação livre. Revista Linguística (Online).
+Ananias, T. C. ; Godoy, M. C. (2023) Dando nomes: o efeito kiki-bouba em experimento de nomeação livre. Revista Linguística (Online), v. 39. [link](http://www.scielo.edu.uy/scielo.php?script=sci_arttext&pid=S2079-312X2023000200057)
 
 París, L.; Celi, M. A.; Tabullo, A.; GODOY, M. C.(2023) Not all English Resultative Constructions (ERCs) are equal: The acquisition of ERC by Spanish speakers, Language Acquisition, 30:2, 105-138, DOI: 10.1080/10489223.2022.2141634 [link](https://www.tandfonline.com/doi/full/10.1080/10489223.2022.2141634)
 
