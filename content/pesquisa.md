@@ -24,6 +24,8 @@ Sá, T. M. M., Ciríaco, L., Godoy, M. (2022) Julgamento de aceitabilidade: um m
 
 ### Artigos
 
+Ananias, T. C.; Godoy, M. C. (2024) Normas de concretude para 521 palavras do português e sua relação com aquisição da linguagem. REVISTA DA ABRALIN. v.23.[link](https://revista.abralin.org/index.php/abralin/article/view/2268)
+
 Ananias, T. C. ; Godoy, M. C. (2023) Dando nomes: o efeito kiki-bouba em experimento de nomeação livre. Revista Linguística (Online), v. 39. [link](http://www.scielo.edu.uy/scielo.php?script=sci_arttext&pid=S2079-312X2023000200057)
 
 París, L.; Celi, M. A.; Tabullo, A.; GODOY, M. C.(2023) Not all English Resultative Constructions (ERCs) are equal: The acquisition of ERC by Spanish speakers, Language Acquisition, 30:2, 105-138, DOI: 10.1080/10489223.2022.2141634 [link](https://www.tandfonline.com/doi/full/10.1080/10489223.2022.2141634)
