@@ -16,8 +16,6 @@ Em 2024/1, ministro os seguintes cursos:
 
 Lucas Lélio Oliveira de França: Mudança diacrônica e iconicidade. Início: 2023. Graduação em Letras - Língua Portuguesa (Orientadora).
 
-Marina Amorim Sinedino: Ambiguidade de descrições definidas: investigação com tempo de leitura. Início: 2023. Graduação em Letras - Língua Portuguesa (Orientadora)
-
 Thayná Cristina Ananias: Dissecando a iconicidade lexical: os fatores estruturais de uma palavra icônica. Início: 2024. Doutorado em Estudos da Linguagem (PPgEL/UFRN) (Orientadora).
 
 Rafael Luis Beraldo. Crise da Replicabilidade e a psicolinguística brasileira: um trabalho pioneiro de replicações experimentais. Início: 2019. Doutorado em Lingüística (IEL/Unicamp) (Coorientadora).
