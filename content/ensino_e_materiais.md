@@ -6,11 +6,10 @@ date = "2014-04-09"
 
 Sou professora das disciplinas de Linguística dos cursos de Letras e Fonoaudiologia da UFRN. Além disso, costumo ministrar disciplinas em temas relacionados a psicolinguística, métodos experimentais e análise estatística de dados no Programa de Pós-graduação em Estudos da Linguagem da UFRN. Também oriento pesquisas de IC, mestrado e doutorado. 
 
-Em 2024/1, ministro os seguintes cursos:
+Em 2024/2, ministro os seguintes cursos:
 
-- Oficina de Planejamento de Projetos Temáticos: usando a Olimpíada Brasileira de Linguística e metodologia baseada em problemas no Ensino Médio (Letras/Português, UFRN)
-- Oficina de Divulgação Científica: criando problemas no estilo da Olimpíada Brasileira de Linguística para fazer divulgação científica (Letras/Português, UFRN)
-- Tópicos em LTD: Introdução à estatística para as ciências da Linguagem (PPgEL, UFRN)
+- Análise Linguística e Ensino (Letras/Português, UFRN)
+- Linguagem e Cognição (PPgEL, UFRN)
 
 ## Orientações em andamento
 
