@@ -13,17 +13,16 @@ Em 2024/2, ministro os seguintes cursos:
 
 ## Orientações em andamento
 
-Lucas Lélio Oliveira de França: Mudança diacrônica e iconicidade. Início: 2023. Graduação em Letras - Língua Portuguesa (Orientadora).
+Lucas Lélio Oliveira de França: Iconicidade e Diacronia. Início: 2023. Graduação em Letras - Língua Portuguesa (Orientadora).
+
+Quezia Emeli Santos de Souza: Iconicidade lexical e categorias perceptuais. Graduação em Letras - Língua Portuguesa (Orientadora).
 
 Thayná Cristina Ananias: Dissecando a iconicidade lexical: os fatores estruturais de uma palavra icônica. Início: 2024. Doutorado em Estudos da Linguagem (PPgEL/UFRN) (Orientadora).
-
-Rafael Luis Beraldo. Crise da Replicabilidade e a psicolinguística brasileira: um trabalho pioneiro de replicações experimentais. Início: 2019. Doutorado em Lingüística (IEL/Unicamp) (Coorientadora).
 
 Rute da Silva Barbalho. Processamento linguístico de pronomes pessoais: o viés da consequência implícita no português brasileiro. Início: 2023. Mestrado em Estudos da Linguagem (PPgEL/UFRN) (Orientadora).
 
 Renata Sabrinne Carvalho. Interpretação de pronomes ambíguos em contexto de transferência de posse. Início: 2023. Mestrado em Estudos da Linguagem (PPgEL/UFRN) (Orientadora).
 
-Iago Pedro Mendes Pires Veras: Como funciona a iconicidade na Língua Brasileira de Sinais e na Cena de Várzea Queimada: comparando línguas de sinais emergentes e estáveis. Início: 2022. Mestrado em Estudos da Linguagem (PPgEL/UFRN) (Orientadora).
 
 
 

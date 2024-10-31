@@ -18,11 +18,15 @@ Todos os meus trabalhos são desenvolvidos a partir de experimentos comportament
 
 ### Capítulos de Livros
 
-Godoy, M. C., Luegi, P., Sampaio, T. O. M. (2024, no prelo) Psycholinguistics. In Carvalho e Oushiro (eds), The Oxford Handbook of the Portuguese Language. Oxford University Press.
+Godoy, M. C., Luegi, P., Sampaio, T. O. M. (no prelo) Psycholinguistics. In Carvalho e Oushiro (eds), The Oxford Handbook of the Portuguese Language. Oxford University Press.
+
+Godoy, M. C. Guimarães, M. P. (2024) Métodos experimentais em pesquisa linguística. In: Rodrigues, Passeggi, Campos, Duque e Silva (orgs.). Metodologia da pesquisa em linguística teórica, descritiva e experimental. Natal: EDUFRN.[link](https://repositorio.ufrn.br/bitstream/123456789/60453/1/Metodologia%20da%20pesquisa%20em%20lingu%c3%adstica_RODRIGUES_ET_AL_2024.pdf)
 
 Sá, T. M. M., Ciríaco, L., Godoy, M. (2022) Julgamento de aceitabilidade: um método de fácil acesso a dados quantitativos. In Oliveira e Sá (eds.), Métodos experimentais em psicolinguística. São Paulo: Pá de Palavra.
 
 ### Artigos
+
+Barbalho, R.; Carvalho, R. S. S.; Godoy, M. C. (aceito para publicação). Construção de corpus de 80 verbos de causalidade implícita no Português Brasileiro. In: Revista de Estudos da Linguagem. 
 
 Ananias, T. C.; Godoy, M. C. (2024) Normas de concretude para 521 palavras do português e sua relação com aquisição da linguagem. REVISTA DA ABRALIN. v.23.[link](https://revista.abralin.org/index.php/abralin/article/view/2268)
 
