@@ -4,7 +4,7 @@ date = "2014-04-09"
 +++
 
 
-Estudo processamento linguístico a partir da premissa de que só é possível entender a estrutura da linguagem ao considerar seu contexto de uso (veja Souza Filho e Godoy (2022) como referência). Atualmente, minhas pesquisas se desenvolvem a partir de dois temas principais. 
+Estudo processamento da linguagem a partir da premissa de que só é possível entender a estrutura da linguagem ao considerar seu contexto de uso (veja Souza Filho e Godoy (2022) como referência). Atualmente, minhas pesquisas se desenvolvem a partir de dois temas principais. 
 
 O primeiro deles trata de questões relacionadas ao processamento referencial. Nesse tema, investigo como integramos as informações linguísticas que lemos/ouvimos às nossas expectativas acerca do contexto comunicativo para tentar prever o que será dito em partes posteriores do texto (veja Godoy, Mafra e Weissheimer (2018) como referência). 
 

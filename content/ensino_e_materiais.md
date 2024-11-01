@@ -25,7 +25,6 @@ Renata Sabrinne Carvalho. Interpretação de pronomes ambíguos em contexto de t
 
 
 
-
 Para uma lista de orientações concluídas, consulte meu [currículo lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do;jsessionid=8477EA03181F44DFE37BCA0EE8BF3061.buscatextual_3)
 
 
