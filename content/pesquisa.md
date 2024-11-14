@@ -20,7 +20,7 @@ Todos os meus trabalhos são desenvolvidos a partir de experimentos comportament
 
 Godoy, M. C., Luegi, P., Sampaio, T. O. M. (no prelo) Psycholinguistics. In Carvalho e Oushiro (eds), The Oxford Handbook of the Portuguese Language. Oxford University Press.
 
-Godoy, M. C. Guimarães, M. P. (2024) Métodos experimentais em pesquisa linguística. In: Rodrigues, Passeggi, Campos, Duque e Silva (orgs.). Metodologia da pesquisa em linguística teórica, descritiva e experimental. Natal: EDUFRN.[link](https://repositorio.ufrn.br/bitstream/123456789/60453/1/Metodologia%20da%20pesquisa%20em%20lingu%c3%adstica_RODRIGUES_ET_AL_2024.pdf)
+Godoy, M. C. Guimarães, M. P. (2024) Métodos experimentais em pesquisa linguística. In: Rodrigues, Passeggi, Campos, Duque e Silva (orgs.). Metodologia da pesquisa em linguística teórica, descritiva e experimental. Natal: EDUFRN.[link](https://repositorio.ufrn.br/jspui/handle/123456789/60453)
 
 Sá, T. M. M., Ciríaco, L., Godoy, M. (2022) Julgamento de aceitabilidade: um método de fácil acesso a dados quantitativos. In Oliveira e Sá (eds.), Métodos experimentais em psicolinguística. São Paulo: Pá de Palavra.
 
