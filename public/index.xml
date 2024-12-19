@@ -2,18 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mahayana Godoy</title>
-    <link>/index.html</link>
+    <link>/</link>
     <description>Recent content on Mahayana Godoy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Tags</title>
-      <link>/tags/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Contato</title>
+      <link>/contato/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>/tags/</guid>
-      <description></description>
+      <guid>/contato/</guid>
+      <description>Para entrar em contato, escreva para mahayana.godoy [arroba] ufrn.br</description>
+    </item>
+    
+    <item>
+      <title>Divulgação Científica</title>
+      <link>/dc/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/dc/</guid>
+      <description>Quando não estou trabalhando com Psicolinguística, tento convencer as outras pessoas de que Linguística é legal.
+Abaixo, listo entrevistas e minhas publicações escritas para um público não-acadêmico. Publicações e entrevistas O que há em um nome: simbolismo sonoro e linguagem (Revista Roseta)
+Sócrates, Pokémon e simbolismo sonoro (Blog #Linguística)
+Como representamos os sentidos de palavras? (Revista Roseta)
+Minha participação no Dragões de Garagem para falar sobre simbolismo sonoro</description>
+    </item>
+    
+    <item>
+      <title>Ensino e Materiais</title>
+      <link>/ensino_e_materiais/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/ensino_e_materiais/</guid>
+      <description>Sou professora das disciplinas de Linguística dos cursos de Letras e Fonoaudiologia da UFRN. Além disso, costumo ministrar disciplinas em temas relacionados a psicolinguística, métodos experimentais e análise estatística de dados no Programa de Pós-graduação em Estudos da Linguagem da UFRN. Também oriento pesquisas de IC, mestrado e doutorado.
+Em 2024/2, ministro os seguintes cursos:
+Análise Linguística e Ensino (Letras/Português, UFRN) Linguagem e Cognição (PPgEL, UFRN) Orientações em andamento Lucas Lélio Oliveira de França: Iconicidade e Diacronia.</description>
+    </item>
+    
+    <item>
+      <title>Pesquisa</title>
+      <link>/pesquisa/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/pesquisa/</guid>
+      <description>Estudo processamento da linguagem a partir da premissa de que só é possível entender a estrutura da linguagem ao considerar seu contexto de uso (veja Souza Filho e Godoy (2022) como referência). Atualmente, minhas pesquisas se desenvolvem a partir de dois temas principais.
+O primeiro deles trata de questões relacionadas ao processamento referencial. Nesse tema, investigo como integramos as informações linguísticas que lemos/ouvimos às nossas expectativas acerca do contexto comunicativo para tentar prever o que será dito em partes posteriores do texto (veja Godoy, Mafra e Weissheimer (2018) como referência).</description>
+    </item>
+    
+    <item>
+      <title>Sobre</title>
+      <link>/sobre/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/sobre/</guid>
+      <description>Sou professora da Universidade Federal do Rio Grande do Norte desde 2015. Fiz meu doutorado em Linguística, com ênfase em Psicolinguística, na Universidade Estadual de Campinas.
+Atualmente, integro a linha Discurso, Cognição e Interação no Programa de Pós-graduação em Estudos da Linguagem da UFRN. Também sou coordenadora do Laboratório de Estudos Experimentais em Linguagem (LEELin/UFRN) e colaboradora do Laboratório de Psicolinguística (UFMG) e do grupo Linguística y Neurobiología Experimental del lenguaje (INCIHUSA/CONICET - Mendoza).</description>
     </item>
     
   </channel>
