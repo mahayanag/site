@@ -20,7 +20,11 @@ Abaixo, listo minhas publicações escritas para um público não-acadêmico, al
 
 [*Como representamos os sentidos de palavras?*](http://www.roseta.org.br/pt/2020/07/18/como-representamos-os-sentidos-de-palavras/) (texto publicado na Revista Roseta)
 
+Minha fala sobre [*como montar um experimento*](https://www.youtube.com/watch?v=NrOX_aRSEDA&ab_channel=OBL%7COlimp%C3%ADadaBrasileiradeLingu%C3%ADstica), dada para os participantes da Escola de Linguística da Olimpíada Brasileira da Linguística.
+
 Minha participação no [*Dragões de Garagem*](http://dragoesdegaragem.com/podcast/dragoes-de-garagem-145-simbolismo-sonoro/) para falar sobre simbolismo sonoro
+
+Minha participação no [*Mexendo com a Língua*](https://open.spotify.com/episode/0wRGVPW8xUBMoHBZtts6rL) para falar sobre psicolinguística e processamento da linguagem.
 
 
 ## Trabalho na mídia

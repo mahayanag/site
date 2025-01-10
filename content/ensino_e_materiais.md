@@ -22,7 +22,7 @@ Renata Sabrinne Carvalho. Interpretação de pronomes ambíguos em contexto de t
 
 
 
-Para uma lista de orientações concluídas, consulte meu [currículo lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do;jsessionid=8477EA03181F44DFE37BCA0EE8BF3061.buscatextual_3)
+Para uma lista de orientações concluídas, consulte meu [*currículo lattes*](http://lattes.cnpq.br/3506387688763831)
 
 
 ## Materiais
@@ -38,6 +38,8 @@ Abaixo listo alguns materiais produzidos para cursos e workshops. Para uma lista
 + Tutorial de [*Modelos Lineares Mistos*](https://mahayana.me/mlm) (oferecido em programas de pós-graduação)
 
 + Material do [*Workshop de Introdução ao R para linguistas*](https://github.com/mahayanag/rworkshop), apresentando a linguagem de programação através do uso do ggplot2 para visualização de dados
+
++ Material do [*curso de PsychoPy*](https://github.com/mahayanag/psychopy) que ministrei no PPG da Letras da PUCRS (2021)
 
 ### Softwares para elaboração de experimentos
 
