@@ -6,10 +6,7 @@ date = "2014-04-09"
 
 Sou professora das disciplinas de Linguística dos cursos de Letras e Fonoaudiologia da UFRN. Além disso, costumo ministrar disciplinas em temas relacionados a psicolinguística, métodos experimentais e análise estatística de dados no Programa de Pós-graduação em Estudos da Linguagem da UFRN. Também oriento pesquisas de IC, mestrado e doutorado. 
 
-Em 2024/2, ministro os seguintes cursos:
-
-- Análise Linguística e Ensino (Letras/Português, UFRN)
-- Linguagem e Cognição (PPgEL, UFRN)
+Em 2025 estou afastada para estágio de pós-doutorado no Instituto de Ciencias Humanas, Ambientales y Sociales (CCT-Mendoza, Argentina).
 
 ## Orientações em andamento
 
@@ -47,7 +44,6 @@ Abaixo listo alguns materiais produzidos para cursos e workshops. Para uma lista
 + [*Vídeo Tutorial*](https://www.youtube.com/watch?v=cntvetEVZ7Q&feature=youtu.be) para implementação de experimentos de leitura autocadenciada no IbexFarm, com [*scripts e materiais suplementares*](https://github.com/mahayanag/arquivosIbexFarm) no github
 
 + [*Vídeo tutorial*](https://www.youtube.com/watch?v=W8cpnARvtNw) em português para uso do psychopy
-
 
 
 

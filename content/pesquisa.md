@@ -6,9 +6,10 @@ date = "2014-04-09"
 
 Estudo processamento da linguagem a partir da premissa de que só é possível entender a estrutura da linguagem ao considerar seu contexto de uso (veja Souza Filho e Godoy (2022) como referência). Atualmente, minhas pesquisas se desenvolvem a partir de dois temas principais. 
 
-O primeiro deles trata de questões relacionadas ao processamento referencial. Nesse tema, investigo como integramos as informações linguísticas que lemos/ouvimos às nossas expectativas acerca do contexto comunicativo para tentar prever o que será dito em partes posteriores do texto (veja Godoy, Mafra e Weissheimer (2018) como referência). 
+Me interesso pelo papel da iconicidade na estruturação do léxico de línguas naturais, nos processos comunicativos e na aquisição da linguagem. Em especial, tenho trabalhado com a iconicidade no léxico do português e simbolismo sonoro, a ideia de que determinados sons da língua remetem a percepções sensoriais de tamanho, forma, luz, cor etc (veja Godoy, Souza Filho, Souza, Alves e Kawahara (2020) como referência).
 
-Em outra linha, também me interesso pelo papel da iconicidade na estruturação do léxico de línguas naturais, nos processos comunicativos e na aquisição da linguagem. Em especial, tenho trabalhado com simbolismo sonoro, a ideia de que determinados sons da língua remetem a percepções sensoriais de tamanho, forma, luz, cor etc (veja Godoy, Souza Filho, Souza, Alves e Kawahara (2020) como referência).
+Paralelamente, também trabalho com questões relacionadas ao processamento referencial. Nesse tema, investigo como integramos as informações linguísticas que lemos/ouvimos às nossas expectativas acerca do contexto comunicativo para tentar prever o que será dito em partes posteriores do texto (veja Godoy, Mafra e Weissheimer (2018) como referência). 
+
 
 Todos os meus trabalhos são desenvolvidos a partir de experimentos comportamentais e análise quantitativa. 
 
@@ -26,7 +27,7 @@ Sá, T. M. M., Ciríaco, L., Godoy, M. (2022) Julgamento de aceitabilidade: um m
 
 ### Artigos
 
-Barbalho, R.; Carvalho, R. S. S.; Godoy, M. C. (aceito para publicação). Construção de corpus de 80 verbos de causalidade implícita no Português Brasileiro. In: Revista de Estudos da Linguagem. 
+Barbalho, R.; Carvalho, R. S. S.; Godoy, M. C. (2024). Construção de corpus de 80 verbos de causalidade implícita no Português Brasileiro. In: Revista de Estudos da Linguagem. 
 
 Ananias, T. C.; Godoy, M. C. (2024) Normas de concretude para 521 palavras do português e sua relação com aquisição da linguagem. REVISTA DA ABRALIN. v.23.[link](https://revista.abralin.org/index.php/abralin/article/view/2268)
 
