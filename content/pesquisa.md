@@ -27,7 +27,9 @@ Sá, T. M. M., Ciríaco, L., Godoy, M. (2022) Julgamento de aceitabilidade: um m
 
 ### Artigos
 
-Barbalho, R.; Carvalho, R. S. S.; Godoy, M. C. (2024). Construção de corpus de 80 verbos de causalidade implícita no Português Brasileiro. In: Revista de Estudos da Linguagem. 
+Ramachandra, V.; Sugimoto, K; Ziskind, K.; Verma, A.; Ahmad, I.; Godoy, M.; Watanabe, K. (2025) The influence of iconicity and autistic traits on novel word learning: a cross-cultural investigation. In: Royal Society Open Science, 12:242161 https://doi.org/10.1098/rsos.242161 [link](https://royalsocietypublishing.org/doi/full/10.1098/rsos.242161)
+
+Barbalho, R.; Carvalho, R. S. S.; Godoy, M. C. (2024). Construção de corpus de 80 verbos de causalidade implícita no Português Brasileiro. In: Revista de Estudos da Linguagem, v.32, n.3. [link](https://periodicos.ufmg.br/index.php/relin/article/view/56567)
 
 Ananias, T. C.; Godoy, M. C. (2024) Normas de concretude para 521 palavras do português e sua relação com aquisição da linguagem. REVISTA DA ABRALIN. v.23.[link](https://revista.abralin.org/index.php/abralin/article/view/2268)
 
