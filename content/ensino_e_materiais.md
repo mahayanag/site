@@ -14,12 +14,13 @@ Lucas Lélio Oliveira de França: Iconicidade e Diacronia. Início: 2023. Gradua
 
 Quezia Emeli Santos de Souza: Iconicidade lexical e categorias perceptuais. Graduação em Letras - Língua Portuguesa (Orientadora).
 
+João Pedro Lobo Antunes: Investigando a adaptação na resolução pronominal em falantes de português brasileiro como L2. Início: 2025. Doutorado em Estudos da Linguagem (PPgEL/UFRN) (Orientadora).
+
 Thayná Cristina Ananias: Dissecando a iconicidade lexical: os fatores estruturais de uma palavra icônica. Início: 2024. Doutorado em Estudos da Linguagem (PPgEL/UFRN) (Orientadora).
 
-Rute da Silva Barbalho. Processamento linguístico de pronomes pessoais: o viés da consequência implícita no português brasileiro. Início: 2023. Mestrado em Estudos da Linguagem (PPgEL/UFRN) (Orientadora).
+Rute da Silva Barbalho. A influência da iconicidade no processamento discursivo das relações causais em contextos de causalidade implícita. Início: 2025. Doutorado em Estudos da Linguagem (PPgEL/UFRN) (Orientadora).
 
-Renata Sabrinne Carvalho. Interpretação de pronomes ambíguos em contexto de transferência de posse. Início: 2023. Mestrado em Estudos da Linguagem (PPgEL/UFRN) (Orientadora).
-
+Renata Sabrinne Carvalho. Quem pode ser sensível: o processamento discursivo de adjetivos com viés moral. Início: 2025. Mestrado em Estudos da Linguagem (PPgEL/UFRN) (Orientadora).
 
 
 Para uma lista de orientações concluídas, consulte meu [*currículo lattes*](http://lattes.cnpq.br/3506387688763831)
