@@ -11,9 +11,7 @@ Me interesso pelo papel da iconicidade na estruturação do léxico de línguas 
 Paralelamente, também trabalho com questões relacionadas ao processamento referencial. Nesse tema, investigo como integramos as informações linguísticas que lemos/ouvimos às nossas expectativas acerca do contexto comunicativo para tentar prever o que será dito em partes posteriores do texto (veja Godoy, Mafra e Weissheimer (2018) como referência). 
 
 
-Todos os meus trabalhos são desenvolvidos a partir de experimentos comportamentais e análise quantitativa. 
-
-
+Todos os meus trabalhos são desenvolvidos a partir de experimentos comportamentais e análise quantitativa. Mais informações disponíveis no site do [Laboratório de Estudos Experimentais em Linguagem](https://leelin.netlify.app/).
 
 ## Publicações
 

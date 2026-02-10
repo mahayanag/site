@@ -6,13 +6,13 @@ date = "2014-04-09"
 
 Sou professora das disciplinas de Linguística dos cursos de Letras e Fonoaudiologia da UFRN. Além disso, costumo ministrar disciplinas em temas relacionados a psicolinguística, métodos experimentais e análise estatística de dados no Programa de Pós-graduação em Estudos da Linguagem da UFRN. Também oriento pesquisas de IC, mestrado e doutorado. 
 
-Em 2025 estou afastada para estágio de pós-doutorado no Instituto de Ciencias Humanas, Ambientales y Sociales (CCT-Mendoza, Argentina).
+Em 2026 ministrarei Tópicos em Psicolinguística (4T1234) e Texto e Discurso (24M56), ambos cursos para graduação.
 
 ## Orientações em andamento
 
 Lucas Lélio Oliveira de França: Iconicidade e Diacronia. Início: 2023. Graduação em Letras - Língua Portuguesa (Orientadora).
 
-Quezia Emeli Santos de Souza: Iconicidade lexical e categorias perceptuais. Graduação em Letras - Língua Portuguesa (Orientadora).
+Quezia Emeli Santos de Souza: Iconicidade lexical e categorias perceptuais. Início: 2024. Graduação em Letras - Língua Portuguesa (Orientadora).
 
 João Pedro Lobo Antunes: Investigando a adaptação na resolução pronominal em falantes de português brasileiro como L2. Início: 2025. Doutorado em Estudos da Linguagem (PPgEL/UFRN) (Orientadora).
 
