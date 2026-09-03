@@ -6,7 +6,7 @@ date = "2014-04-09"
 
 Estudo processamento da linguagem a partir da premissa de que só é possível entender a estrutura da linguagem ao considerar seu contexto de uso (veja Souza Filho e Godoy (2022) como referência). Atualmente, minhas pesquisas se desenvolvem a partir de dois temas principais. 
 
-Me interesso pelo papel da iconicidade na estruturação do léxico de línguas naturais, nos processos comunicativos e na aquisição da linguagem. Em especial, tenho trabalhado com a iconicidade no léxico do português e simbolismo sonoro, a ideia de que determinados sons da língua remetem a percepções sensoriais de tamanho, forma, luz, cor etc (veja Godoy, Souza Filho, Souza, Alves e Kawahara (2020) como referência).
+Me interesso pelo papel da iconicidade na estruturação do léxico de línguas naturais, nos processos comunicativos e na aquisição da linguagem (veja Godoy e Ananias (2025) como referência). Interessa-me entender tanto como a iconicidade 
 
 Paralelamente, também trabalho com questões relacionadas ao processamento referencial. Nesse tema, investigo como integramos as informações linguísticas que lemos/ouvimos às nossas expectativas acerca do contexto comunicativo para tentar prever o que será dito em partes posteriores do texto (veja Godoy, Mafra e Weissheimer (2018) como referência). 
 
@@ -17,13 +17,19 @@ Todos os meus trabalhos são desenvolvidos a partir de experimentos comportament
 
 ### Capítulos de Livros
 
-Godoy, M. C., Luegi, P., Sampaio, T. O. M. (no prelo) Psycholinguistics. In Carvalho e Oushiro (eds), The Oxford Handbook of the Portuguese Language. Oxford University Press.
+Godoy, M. C., Luegi, P., Sampaio, T. O. M. (2026) Psycholinguistics. In Carvalho e Oushiro (eds), The Oxford Handbook of the Portuguese Language. Oxford University Press, p. 252-266. DOI https://doi.org/10.1093/9780191954481.003.0015. [link](https://academic.oup.com/edited-volume/63048/chapter-abstract/566524808?redirectedFrom=fulltext)
 
 Godoy, M. C. Guimarães, M. P. (2024) Métodos experimentais em pesquisa linguística. In: Rodrigues, Passeggi, Campos, Duque e Silva (orgs.). Metodologia da pesquisa em linguística teórica, descritiva e experimental. Natal: EDUFRN.[link](https://repositorio.ufrn.br/jspui/handle/123456789/60453)
 
 Sá, T. M. M., Ciríaco, L., Godoy, M. (2022) Julgamento de aceitabilidade: um método de fácil acesso a dados quantitativos. In Oliveira e Sá (eds.), Métodos experimentais em psicolinguística. São Paulo: Pá de Palavra.
 
 ### Artigos
+
+Godoy, M. C.; Ananias, T. C.; Sishu, D. (2026). Replicating the Effects of Iconicity in Lexical Decision Task: A Study in Brazilian Portuguese. Cadernos de Linguística, Campinas, SP, Brasil, v. 7, n. 1, p. e898, DOI: 10.25189/2675-4916.2026.v7.n1.id898. [link](https://cadernos.abralin.org/index.php/cadernos/article/view/898)
+
+Ananias, T; Godoy, M. (2026) A iconicidade no Português e sua relação com idade de aquisição e classes de palavras. Revista de Estudos da Linguagem, v. 34, n. 1, p/ 81-105. DOI: https://doi.org/10.17851/2237-2083.34.1.81-105. [link](https://periodicos.ufmg.br/index.php/relin/article/view/57054)
+
+Godoy, M.; Ananias, T. C. (2025). A arbitrariedade nos trabalhos sobre iconicidade lexical. Revista Veredas, v. 29, n.2. [link](https://periodicos.ufjf.br/index.php/veredas/article/view/49976)
 
 Ramachandra, V.; Sugimoto, K; Ziskind, K.; Verma, A.; Ahmad, I.; Godoy, M.; Watanabe, K. (2025) The influence of iconicity and autistic traits on novel word learning: a cross-cultural investigation. In: Royal Society Open Science, 12:242161 https://doi.org/10.1098/rsos.242161 [link](https://royalsocietypublishing.org/doi/full/10.1098/rsos.242161)
 
